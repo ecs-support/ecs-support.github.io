@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>บทความน่ารู้</title>
+      <link>/post/knowledge/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ประกาศ / กฎหมาย</title>
       <link>/post/law/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
@@ -27,15 +36,6 @@
       <pubDate>Thu, 08 Jun 2023 10:40:50 +0000</pubDate>
       
       <guid>/post/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>บทความน่ารู้</title>
-      <link>/post/knowledge/</link>
-      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/knowledge/</guid>
       <description></description>
     </item>
     
