@@ -563,15 +563,28 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้&lt;/strong&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;ของนำเข้าตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร&lt;/li&gt;
+&lt;li&gt;ของเก่าใช้แล้ว&lt;/li&gt;
+&lt;li&gt;ของด้อยสภาพ&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;strong&gt;&lt;em&gt;Y&lt;/em&gt;&lt;/strong&gt; ในช่อง &lt;strong&gt;&lt;em&gt;Assessment Request Code&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;“มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น&lt;strong&gt;เปิดตรวจ&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากรที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;strong&gt;&lt;em&gt;Y&lt;/em&gt;&lt;/strong&gt; ในช่อง &lt;strong&gt;&lt;em&gt;Assessment Request Code&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;“มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น&lt;strong&gt;เปิดตรวจ&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากรที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
