@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/pages/clearance/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/tariff/ts_2022/01/</loc>
     <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,6 +12,9 @@
     <lastmod>2021-08-05T01:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/price/payment-solutions/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/clearance/catergory-01/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/customs/</loc>
@@ -69,6 +75,9 @@
     <lastmod>2021-08-05T01:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/price/term-of-payment/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/clearance/catergory-02/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/knowledge/iso/overview/</loc>
@@ -140,6 +149,9 @@
     <loc>/pages/import/export/</loc>
     <lastmod>2021-08-05T01:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/clearance/catergory-03/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/knowledge/iso/core/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -206,6 +218,9 @@
     <loc>/pages/knowledge/iso/int_audit/</loc>
     <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/clearance/catergory-04/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/transit/transshipment-and-transit/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -247,6 +262,9 @@
   </url><url>
     <loc>/pages/tariff/ts_2022/05/</loc>
     <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/clearance/catergory-05/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/transit/thai-lao/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
@@ -849,19 +867,28 @@
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%AA/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
@@ -1207,9 +1234,6 @@
   </url><url>
     <loc>/post/knowledge/2023/01-04/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/pages/</loc>
-    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%8A%E0%B8%9B%E0%B8%9B%E0%B8%87/</loc>
     <lastmod>2022-12-27T00:00:00+00:00</lastmod>
@@ -1805,6 +1829,21 @@
     <loc>/tags/%E0%B8%A8%E0%B8%99%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B2/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%A2%E0%B8%84%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B8%95%E0%B8%95/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -2126,9 +2165,6 @@
     <loc>/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97-3-%E0%B8%A0%E0%B8%B2%E0%B8%84-4/</loc>
     <lastmod>2021-02-24T05:10:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
-    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/%E0%B9%80%E0%B8%A3%E0%B8%AD%E0%B8%81%E0%B8%AC%E0%B8%B2/</loc>
     <lastmod>2021-02-24T05:10:00+00:00</lastmod>
   </url><url>
@@ -2335,9 +2371,6 @@
   </url><url>
     <loc>/post/knowledge/certified-exporter-code/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/acts/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
@@ -3062,6 +3095,10 @@
     <loc>/faq/</loc>
   </url><url>
     <loc>/home/</loc>
+  </url><url>
+    <loc>/pages/clearance/catergory-06/</loc>
+  </url><url>
+    <loc>/pages/clearance/catergory-07/</loc>
   </url><url>
     <loc>/pages/docs/section/</loc>
   </url><url>
