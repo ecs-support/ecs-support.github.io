@@ -560,7 +560,7 @@
 
 &lt;script&gt;
 
-location.replace(&#34;/KM/customs/pages/tax-inc/&#34;)
+location.replace(&#34;/pages/tax-inc/&#34;)
 &lt;/script&gt;
 
 
