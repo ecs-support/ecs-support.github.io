@@ -7,10 +7,28 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 09:10:00 +0000</lastBuildDate>
     
 	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Laws</title>
+      <link>/categories/laws/</link>
+      <pubDate>Fri, 01 Sep 2023 09:10:00 +0000</pubDate>
+      
+      <guid>/categories/laws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OGA</title>
+      <link>/categories/oga/</link>
+      <pubDate>Fri, 01 Sep 2023 09:10:00 +0000</pubDate>
+      
+      <guid>/categories/oga/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Knowledge</title>
@@ -54,24 +72,6 @@
       <pubDate>Thu, 08 Jun 2023 10:40:50 +0000</pubDate>
       
       <guid>/categories/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laws</title>
-      <link>/categories/laws/</link>
-      <pubDate>Fri, 26 May 2023 06:10:00 +0000</pubDate>
-      
-      <guid>/categories/laws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OGA</title>
-      <link>/categories/oga/</link>
-      <pubDate>Fri, 26 May 2023 06:10:00 +0000</pubDate>
-      
-      <guid>/categories/oga/</guid>
       <description></description>
     </item>
     
