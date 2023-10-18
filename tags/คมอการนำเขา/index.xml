@@ -167,7 +167,7 @@
 &lt;p&gt;&lt;img src=&#34;./img/e-import_system.png&#34; alt=&#34;แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)&#34;&gt;
 แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;ที่มา&lt;/strong&gt; : &lt;a href=&#34;https://ecs-support.github.io/KM/customs/pages/docs/guide-import/&#34;&gt;ประกาศกรมศุลกากรที่ 133 / 2561 เรื่อง &lt;strong&gt;คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ที่มา&lt;/strong&gt; : &lt;a href=&#34;https://ecs-support.github.io/pages/docs/guide-import/&#34;&gt;ประกาศกรมศุลกากรที่ 133 / 2561 เรื่อง &lt;strong&gt;คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -509,13 +509,23 @@
 &lt;ul&gt;
 &lt;li&gt;รหัสสถานที่ตรวจปล่อย (Release Port)  ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น  ด่านศุลกากร ที่นำของเข้า (First Port)  และ&lt;/li&gt;
 &lt;li&gt;ให้บันทึกค่า &lt;strong&gt;“Y” ในช่องขออนุญาตเปิดตรวจนอกสถานที่&lt;/strong&gt;  (Inspection request code)&lt;/li&gt;
-&lt;li&gt;หากไม่ติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจปล่อยสินค้าโดยไม่ต้องมัดลวด&lt;/li&gt;
-&lt;li&gt;หากติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจเป็น “ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากรที่นำของเข้า” เพื่อนำไปตรวจปล่อยนอกสถานที่ตามที่ระบุข้อมูลไว้ ในช่องรหัสสถานที่ตรวจปล่อยนอกสถานที่ (Outside Release Port)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;&lt;em&gt;หากไม่ติดเงื่อนไขความเสี่ยง&lt;/em&gt; ระบบจะสั่งการตรวจปล่อยสินค้าโดย &lt;em&gt;&amp;ldquo;ไม่ต้องมัดลวด&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;&lt;em&gt;หากติดเงื่อนไขความเสี่ยง&lt;/em&gt; ระบบจะสั่งการตรวจเป็น &lt;em&gt;“ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากรที่นำของเข้า”&lt;/em&gt; เพื่อนำไปตรวจปล่อยนอกสถานที่ตามที่ระบุข้อมูลไว้ ในช่องรหัสสถานที่ตรวจปล่อยนอกสถานที่ (Outside Release Port)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+&lt;/p&gt;
 </description>
     </item>
     

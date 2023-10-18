@@ -891,27 +891,42 @@
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/tags/aeo/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/categories/news/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tas/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/post/news/2023/10-17/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/post/news/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2023-10-17T10:40:50+00:00</lastmod>
   </url><url>
     <loc>/tags/aeo-mra/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/knowledge/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/knowledge/</loc>
@@ -1043,9 +1058,6 @@
     <loc>/tags/%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A3%E0%B8%94%E0%B8%A3%E0%B8%AD%E0%B8%99/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/aeo/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/knowledge/2023/07-10/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -1101,12 +1113,6 @@
     <lastmod>2023-06-08T10:40:50+00:00</lastmod>
   </url><url>
     <loc>/tags/erv/</loc>
-    <lastmod>2023-06-08T10:40:50+00:00</lastmod>
-  </url><url>
-    <loc>/categories/news/</loc>
-    <lastmod>2023-06-08T10:40:50+00:00</lastmod>
-  </url><url>
-    <loc>/post/news/</loc>
     <lastmod>2023-06-08T10:40:50+00:00</lastmod>
   </url><url>
     <loc>/post/news/2023/06-08/</loc>
@@ -1712,7 +1718,7 @@
     <loc>/tags/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%AD%E0%B8%A1/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/knowledge/2021/2021-09-07/</loc>
+    <loc>/post/knowledge/2021/09-07/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%9E%E0%B8%8A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%AD%E0%B8%A1/</loc>
@@ -2075,7 +2081,7 @@
     <loc>/tags/re-export/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/knowledge/2021-06-10/</loc>
+    <loc>/post/knowledge/2021/06-10/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B2-28/</loc>
@@ -2126,7 +2132,7 @@
     <loc>/categories/e-express/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/knowledge/2021-05-06/</loc>
+    <loc>/post/knowledge/2021/05-06/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/announcement/oga/ad1042/</loc>
@@ -2213,7 +2219,7 @@
     <loc>/tags/%E0%B8%81%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%8A%E0%B8%A2%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%AA/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/knowledge/2021-03-15/</loc>
+    <loc>/post/knowledge/2021/03-15/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81/</loc>
@@ -2228,7 +2234,7 @@
     <loc>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/knowledge/2021-03-12/</loc>
+    <loc>/post/knowledge/2021/03-12/</loc>
     <lastmod>2021-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/law/customs/2564/2564-36/</loc>
@@ -2375,7 +2381,7 @@
     <loc>/tags/19part4/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/knowledge/19-4_2020-01-14/</loc>
+    <loc>/post/knowledge/2020/01-14/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%84-4/</loc>
@@ -2471,7 +2477,7 @@
     <loc>/talk/clearance/clearance-01/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/knowledge/certified-exporter-code/</loc>
+    <loc>/post/knowledge/2020/10-28/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/acts/</loc>
@@ -2525,7 +2531,7 @@
     <loc>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B8%A3%E0%B8%9A%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/knowledge/customs_clearance_fee/</loc>
+    <loc>/post/knowledge/2020/10-07/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/announcement/ministry/2563-10-acn/</loc>
@@ -2666,7 +2672,7 @@
     <loc>/post/knowledge/retail-price/</loc>
     <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/knowledge/aeo_mra/</loc>
+    <loc>/post/knowledge/2020/09-01/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
