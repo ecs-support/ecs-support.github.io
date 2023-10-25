@@ -682,7 +682,7 @@
       <description>
 
 &lt;script&gt; 
- location.replace(&#34;/KM/customs/pages/import/&#34;)  
+ location.replace(&#34;/pages/import/&#34;)  
 &lt;/script&gt;
 
 </description>
