@@ -50,8 +50,8 @@
 
 &lt;/div&gt;
       
-&lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs_01.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./docs_01.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
   ดาวน์โหลดเอกสาร
 &lt;/a&gt;
 &lt;/div&gt;
@@ -69,8 +69,8 @@
 
 &lt;/div&gt;
       
-&lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs_02.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./docs_02.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
   ดาวน์โหลดเอกสาร
 &lt;/a&gt;
 &lt;/div&gt;
@@ -88,8 +88,8 @@
 
 &lt;/div&gt;
       
-&lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs_03.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./docs_03.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
   ดาวน์โหลดเอกสาร
 &lt;/a&gt;
 &lt;/div&gt;
@@ -107,8 +107,8 @@
 
 &lt;/div&gt;
       
-&lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs_04.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./docs_04.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
   ดาวน์โหลดเอกสาร
 &lt;/a&gt;
 &lt;/div&gt;
