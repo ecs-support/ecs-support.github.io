@@ -605,11 +605,11 @@
     <loc>/pages/import/guide/payment-method/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/fta/tpe/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/tariff/ts_2022/24/</loc>
     <lastmod>2021-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/pages/fta/rcep/</loc>
-    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/guide/argumentative-reason-code/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
@@ -655,6 +655,9 @@
   </url><url>
     <loc>/pages/tariff/ts_2022/33/</loc>
     <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/fta/rcep/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/guide/correction-import-decl/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
@@ -923,6 +926,18 @@
     <loc>/post/law/customs/2566/2566-164/</loc>
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tpe/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B9%80%E0%B8%9B%E0%B8%A3/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/knowledge/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -1039,9 +1054,6 @@
   </url><url>
     <loc>/tags/%E0%B8%9A%E0%B8%8D%E0%B8%8A%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/pages/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
@@ -1701,9 +1713,6 @@
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/news/2021/09-21/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/</loc>

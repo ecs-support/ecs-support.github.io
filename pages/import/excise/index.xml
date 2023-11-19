@@ -20,9 +20,8 @@
       <guid>/pages/import/excise/intro/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/excise_logo.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#พระราชบญญตภาษสรรพสามต-พศ-2560&#34;&gt;พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560&lt;/a&gt;&lt;/li&gt;
@@ -30,10 +29,12 @@
     &lt;li&gt;&lt;a href=&#34;#กฎหมาย--ประกาศทสำคญ&#34;&gt;กฎหมาย / ประกาศที่สำคัญ&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;ภาษีสรรพสามิต&lt;/strong&gt; คือ ภาษีที่จัดเก็บจากสินค้าและบริการซึ่งมีเหตุผลสมควรที่จะต้องรับภาระภาษีสูงกว่าปกติ เช่น บริโภคแล้วอาจก่อให้เกิดผลเสียต่อสุขภาพ และศีลธรรมอันดี มีลักษณะฟุ่มเฟือย และสินค้าและบริการที่ได้รับผลประโยชน์เป็นพิเศษจากกิจการของรัฐ เป็นต้น เพื่อเป็นรายได้ให้รัฐบาลนำไปบริหารประเทศ และทะนุบำรุงท้องถิ่นต่าง ๆ โดยอาศัยอำนาจตามกฎหมาย โดยสรุปการจําแนกเป็นกลุ่มสินค้าและบริการ ดังนี้&lt;/p&gt;
 &lt;h2 id=&#34;พระราชบญญตภาษสรรพสามต-พศ-2560&#34;&gt;พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560&lt;/h2&gt;
 &lt;p&gt;พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 มีผลบังคับใช้ในวันที่ 16 กันยายน 2560 เป็นการเปลี่ยนแปลง
@@ -168,9 +169,8 @@
       <guid>/pages/import/excise/responsibility/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/doc_02/doc-02jpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#1-การจดทะเบยนสรรพสามต&#34;&gt;1. การจดทะเบียนสรรพสามิต&lt;/a&gt;&lt;/li&gt;
@@ -180,10 +180,12 @@
     &lt;li&gt;&lt;a href=&#34;#5-การจดทำบญชหลกฐาน&#34;&gt;5. การจัดทำบัญชีหลักฐาน&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;h2 id=&#34;1-การจดทะเบยนสรรพสามต&#34;&gt;1. การจดทะเบียนสรรพสามิต&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;../img/doc_02/doc-02jpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/doc_02/doc-02jpg_Page5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -245,9 +247,8 @@
       
       <guid>/pages/import/excise/calculate_excise/</guid>
       <description>&lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#สรา&#34;&gt;สุรา&lt;/a&gt;&lt;/li&gt;
@@ -259,10 +260,12 @@
     &lt;li&gt;&lt;a href=&#34;#นำมนและผลตภณฑนำมน&#34;&gt;น้ำมันและผลิตภัณฑ์น้ำมัน&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (&lt;strong&gt;ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม&lt;/strong&gt;) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ&lt;/p&gt;
 &lt;p&gt;กรณีเป็นสินค้าในหมวด &lt;strong&gt;สุรา ยาสูบ และเครื่องดื่ม&lt;/strong&gt; เมื่อผู้ใช้งานกำหนดพิกัดสรรพสามิตถูกต้อง ต้องเข้าไปบันทึกรายละเอียดเพิ่มเติม ตามรายละเอียดของแต่ละหมวดสินค้ามีรายละเอียดดังนี้&lt;/p&gt;
 &lt;h2 id=&#34;สรา&#34;&gt;สุรา&lt;/h2&gt;

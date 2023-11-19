@@ -20,18 +20,8 @@
       <guid>/pages/tax-inc/section_29/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/drawback.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#ของทไดรบคนอากรตามมาตรา-29&#34;&gt;ของที่ได้รับคืนอากรตามมาตรา 29&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ของทไมไดรบคนอากรตามมาตรา-29&#34;&gt;ของที่ไม่ได้รับคืนอากรตามมาตรา 29&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#ขนตอนการขอคนอากร&#34;&gt;ขั้นตอนการขอคืนอากร&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#หนวยงานใหบรการ&#34;&gt;หน่วยงานให้บริการ&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#สรป&#34;&gt;สรุป&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;การคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ.2560 เป็นการคืนเงินอากรขาเข้าที่ผู้นำของเข้า (ผู้มีสิทธิขอคืนอากร) ที่ได้ชำระไว้ด้วยเงินสดและ/หรือ ใช้หนังสือค้ำประกันของธนาคาร หรือระบบ e-Guarantee หรือ หนังสือค้ำประกันของกระทรวงการคลัง วางประกันแทนการชำระอากรขาเข้าด้วยเงินสด สำหรับของที่นำเข้ามาจากต่างประเทศ เพื่อใช้ผลิต หรือผสม หรือประกอบ หรือบรรจุ หรือดำเนินการด้วยวิธีอื่นใด เป็นของที่ส่งออกไปนอกราชอาณาจักร&lt;strong&gt;ภายใน 1 ปี&lt;/strong&gt; นับแต่&lt;strong&gt;วันที่นำของเข้า&lt;/strong&gt;มาในราชอาณาจักร และต้องยื่นขอคืนอากร &lt;strong&gt;ภายใน 6 เดือน&lt;/strong&gt; นับแต่&lt;strong&gt;วันที่ส่งของออก&lt;/strong&gt;ไป&lt;/p&gt;
 &lt;p&gt;ทั้งนี้ ของที่นำเข้ามาในราชอาณาจักรเพื่อใช้ในการ&lt;strong&gt;ผลิต ผสม ประกอบ บรรจุ หรือดำเนินการด้วยวิธีอื่นใด&lt;/strong&gt;ตามมาตรา 29 หากโอนเข้าไปในคลังสินค้าทัณฑ์บน หรือจำหน่ายให้แก่ผู้มีสิทธิได้รับยกเว้นอากรตามกฎหมายว่าด้วยพิกัดอัตราศุลกากร หรือกฎหมายอื่น เช่น ตามกฎหมายส่งเสริมการลงทุน ตามกฎหมายการนิคมอุตสาหกรรม เป็นต้น ตามนัยข้อกฎหมายถือว่าของนั้นได้ส่งออกตามมาตรา 29 ในเวลาที่โอนหรือจำหน่ายเป็นการอำนวยความสะดวกแก่ผู้ประกอบการตามมาตรา 29 ที่จะให้ได้รับการคืนอากรสำหรับของที่นำเข้า แม้ไม่ได้ส่งออกนอกราชอาณาจักรซึ่งใช้บังคับเฉพาะกรณีโอนหรือจำหน่ายสินค้าสำเร็จรูป/กึ่งสำเร็จรูปเท่านั้น ดังนั้นผู้นำของเข้าตามมาตรา 29 สามารถยื่นขอคืนอากรสำหรับของเช่นว่านั้นได้ตามระเบียบที่อธิบดีกำหนด&lt;/p&gt;
@@ -404,9 +394,8 @@
       <guid>/pages/tax-inc/freezone/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/freezone.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#สทธประโยชน&#34;&gt;สิทธิประโยชน์&lt;/a&gt;&lt;/li&gt;
@@ -423,10 +412,12 @@
     &lt;li&gt;&lt;a href=&#34;#สรป&#34;&gt;สรุป&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;เขตปลอดอากร&lt;/strong&gt; คือ เขตพื้นที่ที่กำหนดไว้ เพื่อประโยชน์ทางอากรศุลกากรในการประกอบอุตสาหกรรม พาณิชยกรรม หรือกิจการอื่นที่เป็นประโยชน์แก่การเศรษฐกิจของประเทศ โดยผู้ที่ประสงค์จะจัดตั้งเขตปลอดอากรต้องได้รับใบอนุญาตจากอธิบดี&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ผู้ได้รับใบอนุญาตประกอบกิจการในเขตปลอดอากร&lt;/strong&gt; คือ ผู้ที่ได้รับอนุญาตจากอธิบดีให้ประกอบอุตสาหกรรม พาณิชยกรรม หรือกิจการอื่นใดที่เป็นประโยชน์แก่การเศรษฐกิจของประเทศในเขตปลอดอากร&lt;/p&gt;
 &lt;h2 id=&#34;สทธประโยชน&#34;&gt;สิทธิประโยชน์&lt;/h2&gt;
@@ -543,9 +534,8 @@
       <guid>/pages/tax-inc/ieat/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/i-eat-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#หลกการทวไป&#34;&gt;หลักการทั่วไป&lt;/a&gt;&lt;/li&gt;
@@ -555,10 +545,12 @@
     &lt;li&gt;&lt;a href=&#34;#พธการศลกากรทควรทราบ&#34;&gt;พิธีการศุลกากรที่ควรทราบ&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;h2 id=&#34;หลกการทวไป&#34;&gt;หลักการทั่วไป&lt;/h2&gt;
 &lt;p&gt;พระราชบัญญัติการนิคมอุตสาหกรรมแห่งประเทศไทย พ.ศ. 2522 ได้มีการจัดตั้ง การนิคมอุตสาหกรรมแห่งประเทศไทยขึ้นเป็นรัฐวิสาหกิจสังกัดกระทรวงอุตสาหกรรมมีชื่อย่อว่า &amp;ldquo;กนอ.&amp;rdquo; มีวัตถุประสงค์ในการจัดตั้งหลายประการ โดยเริ่มจากการจัดหาที่ดินที่เหมาะสมเพื่อจัดตั้ง หรือขยายนิคมอุตสาหกรรม หรือเพื่อดำเนินธุรกิจอื่นที่จะเป็นประโยชน์ ดำเนินการปรับปรุงที่ดินเพื่อให้บริการ ตลอดจนจัดสิ่งอำนวยความสะดวกในการดำเนินงาน รวมทั้งสาธารณูปโภคต่างๆให้แก่ผู้ประกอบกิจการอุตสาหกรรมในเขตนิคมอุตสาหกรรม พื้นที่เขตนิคมอุตสาหกรรมแบ่งออกเป็น 2 ลักษณะ คือ&lt;/p&gt;
 &lt;ol&gt;
@@ -972,9 +964,8 @@
       <guid>/pages/tax-inc/boi/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/boi.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#คำจำกดความ&#34;&gt;คำจำกัดความ&lt;/a&gt;&lt;/li&gt;
@@ -989,10 +980,12 @@
     &lt;li&gt;&lt;a href=&#34;#สอบถามขอมลเพมเตม&#34;&gt;สอบถามข้อมูลเพิ่มเติม&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;การส่งเสริมการลงทุน เป็นมาตรการหนึ่งในการดึงดูดนักลงทุนจากต่างประเทศ ให้เข้ามาลงทุนในกิจการที่รัฐให้ความสำคัญโดยมีหน่วยงานหลักที่ดูแลรับผิดชอบ คือ สานักงานคณะกรรมการส่งเสริมการลงทุน สิทธิและประโยชน์ทางภาษีอากรที่ผู้ได้รับการส่งเสริมการลงทุนได้รับ เป็นไปตามที่บัญญัติไว้ในพระราชบัญญัติการส่งเสริมการลงทุน พ.ศ. 2520 ผู้ประกอบการที่ประสงค์จะขอรับสิทธิและประโยชน์ต้องยื่นคำขอรับการส่งเสริมและต้องปฏิบัติตามหลักเกณฑ์ วิธีการ ตามที่สำนักงานคณะกรรมการส่งเสริมการลงทุนกำหนด.&lt;/p&gt;
 &lt;h2 id=&#34;คำจำกดความ&#34;&gt;คำจำกัดความ&lt;/h2&gt;
 &lt;ul&gt;

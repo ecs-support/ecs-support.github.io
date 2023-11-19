@@ -20,18 +20,8 @@
       <guid>/pages/tariff/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/harmonized.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#พกดศลกากร-hs-code-คออะไร&#34;&gt;พิกัดศุลกากร HS Code คืออะไร&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#เลข-4-ตวแรก&#34;&gt;เลข 4 ตัวแรก&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#เลข-4-ตวตอมา&#34;&gt;เลข 4 ตัวต่อมา&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#เลข-3-ตวสดทาย&#34;&gt;เลข 3 ตัวสุดท้าย&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#การหาพกดศลกากร-และรหสพกดสนคา&#34;&gt;การหาพิกัดศุลกากร และรหัสพิกัดสินค้า&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;พกดศลกากร-hs-code-คออะไร&#34;&gt;พิกัดศุลกากร HS Code คืออะไร&lt;/h2&gt;
 &lt;p&gt;เนื่องจากในแต่ละประเทศ แต่ละเมือง ย่อมมีประเภทของสินค้า และวัตถุดิบที่แตกต่างกันออกไป รวมถึงในแต่ละที่อาจเรียกชื่อแตกต่างกันด้วย จึงได้มีการคิดข้อกำหนดของประเภทและชนิดสินค้าให้มีความเข้าใจตรงกันทั่วโลก และมีความเป็นสากล จึงมีการรวมกลุ่มกันขึ้นมาเพื่อกำหนดเกณฑ์ที่ชื่อว่า “HS Code” ขึ้นมา&lt;/p&gt;

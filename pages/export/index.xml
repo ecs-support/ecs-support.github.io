@@ -164,9 +164,8 @@
       <guid>/pages/export/air/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/flowTH2-3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#การปฏบตพธการศลกากรสงออกสนคาทางอากาศยาน&#34;&gt;การปฏิบัติพิธีการศุลกากรส่งออกสินค้าทางอากาศยาน&lt;/a&gt;&lt;/li&gt;
@@ -186,10 +185,12 @@
     &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;h2 id=&#34;การปฏบตพธการศลกากรสงออกสนคาทางอากาศยาน&#34;&gt;การปฏิบัติพิธีการศุลกากรส่งออกสินค้าทางอากาศยาน&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;การปฏิบัติพิธีการส่งออกสินค้า ณ สำนักงานศุลกากรตรวจสินค้าท่าอากาศยานสุวรรณภูมิ&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;การปฏิบัติพิธีการศุลกากรส่งออกสินค้าทางอากาศยานในปัจจุบัน เป็นการดำเนินการผ่านระบบอิเล็กทรอนิกส์แบบไร้เอกสาร (Paperless) โดยมีจุดมุ่งหมาย ในการอำนวยความสะดวกทางการค้า และเพื่อส่งเสริมความสามารถในการแข่งขันบนเวทีการค้าโลก ผู้ที่ประสงค์จะดำเนินการปฏิบัติพิธีการ ศุลกากรส่งออกสินค้าทางอิเล็กทรอนิกส์แบบไร้เอกสาร (e-Export) ณ สำนักงานศุลกากรตรวจสินค้าท่าอากาศยานสุวรรณภูมิ ต้องทำการลงทะเบียนกับกรมศุลกากร ประกาศกรมศุุลกากรที่ 61/.2561 และ 64/.2561 ลงวันที่ 27 กุมภาพันธ์ พ.ศ. 2561 เพื่อบันทึกข้อมูลไว้ในฐานข้อมูลระบบคอมพิวเตอร์ของกรมศุลกากร โดยมีขั้นตอนต่างๆด้านพิธีการศุลกากรดังต่อไปนี้.&lt;/p&gt;

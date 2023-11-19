@@ -20,9 +20,8 @@
       <guid>/pages/clearance/catergory-01/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/img_01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#สวนท-1-การลงทะเบยน&#34;&gt;ส่วนที่ 1 การลงทะเบียน&lt;/a&gt;&lt;/li&gt;
@@ -31,10 +30,12 @@
     &lt;li&gt;&lt;a href=&#34;#สวนท--4-การจดเกบหลกฐานขอมลอเลกทรอนกส&#34;&gt;ส่วนที่  4 การจัดเก็บหลักฐานข้อมูลอิเล็กทรอนิกส์&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;details&gt;
     &lt;summary&gt;&lt;h4&gt;ข้อ 2 เพื่อประโยชน์แห่งการดำเนินกระบวนการทางศุลกากร&lt;/h4&gt;&lt;/summary&gt;
     &lt;p class=&#34;summary-contents&#34;&gt;&lt;blockquote&gt;

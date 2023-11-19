@@ -20,9 +20,8 @@
       <guid>/pages/fta/atiga/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://www.worldatlas.com/r/w728-h425-c728x425/upload/21/c9/14/shutterstock-194495666.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;
@@ -40,10 +39,12 @@
     &lt;li&gt;&lt;a href=&#34;#เอกสารเพมเตม&#34;&gt;เอกสารเพิ่มเติม&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;เขตการค้าเสรีอาเซียน (AFTA) เกิดจากความต้องการร่วมมือทางการค้าจากประเทศต่างๆในอาเซียน เพื่อให้อาเซียนเป็นภูมิภาคที่มีศักยภาพทางด้านเศรษฐกิจ และเพิ่มอำนาจในการต่อรองทางด้านเศรษฐกิจในเวทีโลก พร้อมกันนี้อาเซียนยังมีความต้องการที่จะดึงดูดประเทศต่างๆให้เข้ามาลงทุน เพื่อความเจริญเติบโตอย่างต่อเนื่องภายในภูมิภาค โดย AFTA นั้นจะทำให้การค้าขายสินค้าในอาเซียนเป็นไปอย่างเสรี มีการคิดอัตราภาษีระหว่างกันในระดับที่ต่ำและปราศจากข้อกำหนดทางการค้า อันจะส่งผลให้ประเทศสมาชิกจะมีต้นทุนการผลิตสินค้าที่ลดลง อีกทั้งเป็นการเพิ่มปริมาณทางด้านการค้าในภูมิภาคให้มีมากขึ้น ทำให้อาเซียนเป็นภูมิภาคที่มีการเติบโตทางเศรษฐกิจอย่างรวดเร็วและมั่นคง  &lt;/p&gt;
 &lt;p&gt;อาเซียนดำเนินการจัดตั้งเขตการค้าเสรีอาเซียน (AFTA) โดยมุ่งเน้นไปที่การขจัดอุปสรรคทางการค้าทั้งหลายภายในภูมิภาค ทั้งในด้านภาษีและเครื่องกีดขวางทางการค้าต่างๆที่มิใช่ภาษี ยกตัวอย่างเช่นการจำกัดโควต้าการนำเข้า เป็นต้น&lt;/p&gt;

@@ -365,9 +365,8 @@
       <description>&lt;p&gt;&lt;img src=&#34;./img/cover.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#1-รปแบบเงนทจะจายชดเชยคาภาษอากร&#34;&gt;1. รูปแบบเงินที่จะจ่ายชดเชยค่าภาษีอากร&lt;/a&gt;&lt;/li&gt;
@@ -385,10 +384,12 @@
     &lt;li&gt;&lt;a href=&#34;#เอกสารทเกยวของ&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;ตามที่กรมศุลกากรได้จัดงานสัมมนา &lt;strong&gt;“โครงการพัฒนาระบบชำระค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation : DTC)”&lt;/strong&gt; เมื่อวันที่ 20 สิงหาคม 2564 ผ่านระบบ Video Conference : Zoom Cloud Meeting ณ ห้องประชุมภาสกรวงศ์ ชั้น 2 อาคาร 1 กรมศุลกากร เพื่อให้ผู้ประกอบการหรือตัวแทนออกของเข้าใจ การชำระเงินค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ ซึ่งมีรายละเอียดแบ่งได้ ดังนี้&lt;/p&gt;
 &lt;h1 id=&#34;การใชสทธการชดเชยคาภาษอากร&#34;&gt;การใช้สิทธิการชดเชยค่าภาษีอากร&lt;/h1&gt;
 &lt;p&gt;สำหรับการใช้สิทธิ&lt;strong&gt;การชดเชยค่าภาษีอากร สำหรับสินค้าส่งออกที่ผลิตในราชอาณาจักร&lt;/strong&gt; มีการปรับเปลี่ยนที่สำคัญดังนี้&lt;/p&gt;

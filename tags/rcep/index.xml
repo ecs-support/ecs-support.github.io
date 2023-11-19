@@ -20,9 +20,8 @@
       <guid>/pages/fta/rcep/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;RCEP.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#ความเปนมา&#34;&gt;ความเป็นมา&lt;/a&gt;&lt;/li&gt;
@@ -36,10 +35,12 @@
     &lt;li&gt;&lt;a href=&#34;#เอกสารทเกยวของ&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;strong&gt;ความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค  ( Regional Comprehensive Economic Partnership: RCEP)&lt;/strong&gt; คือ ความตกลงเขตการค้าเสรี ระหว่าง 10 ชาติสมาชิกอาเซียน และ 5 ประเทศคู่เจรจา (ได้แก่ จีน ญี่ปุ่น เกาหลีใต้ ออสเตรเลีย และนิวซีแลนด์) ซึ่งการเจรจาเกี่ยวกับ ความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาคนี้ ได้เริ่มขึ้นอย่างเป็นทางการในการประชุมอาเซียนที่ประเทศกัมพูชาเมื่อเดือนพฤศจิกายน พ.ศ. 2555  โดยทุกประเทศรวมกันมีมูลค่าผลิตภัณฑ์มวลรวม ในประเทศ (GDP) ประมาณ 30% ของ GDP ของโลก และมีประชากรประมาณ 30% ของประชากรโลก ความตกลง RCEP จัดตั้งขึ้นเพื่อให้เป็นความตกลงที่ทันสมัย ครอบคลุม คุณภาพสูง และเป็นประโยชน์ร่วมกัน ซึ่งจะสร้างสภาพแวดล้อม ที่เอื้ออำนวยให้เกิดการขยายตัว ทางการค้าการลงทุนภายในภูมิภาค รวมถึงสร้างความเติบโตและการพัฒนาสู่เศรษฐกิจโลก และนำไปสู่โอกาสในการเข้าสู่ตลาด และการจ้างงานของภาคธุรกิจและ ประชาชนในภูมิภาค ความตกลงอาร์เซ็ปจะดำเนินงานควบคู่และสนับสนุนระบบการค้าพหุภาคีที่เปิดกว้าง ครอบคลุม และเป็นไปตามกฎกติกา&lt;/p&gt;
 &lt;h2 id=&#34;ความเปนมา&#34;&gt;ความเป็นมา&lt;/h2&gt;

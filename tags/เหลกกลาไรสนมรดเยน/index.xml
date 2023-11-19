@@ -21,9 +21,8 @@
       <description>&lt;h1 id=&#34;การตอบโต-การทมตลาดสนคาเหลกกลาไรสนมรดเยนชนดมวน-แผน-และแผนแถบ-ทมแหลงกำเนดจาก-สาธารณรฐอนโดนเซยและมาเลเซย&#34;&gt;การตอบโต้ การทุ่มตลาดสินค้าเหล็กกล้าไร้สนิมรีดเย็นชนิดม้วน แผ่น และแผ่นแถบ ที่มีแหล่งกำเนิดจาก สาธารณรัฐอินโดนีเซียและมาเลเซีย&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#รายละเอยดการใชมาตรการของสนคา&#34;&gt;รายละเอียดการใช้มาตรการของสินค้า&lt;/a&gt;&lt;/li&gt;
@@ -38,10 +37,12 @@
     &lt;li&gt;&lt;a href=&#34;#ประกาศผลการไตสวนชนทสด&#34;&gt;ประกาศผลการไต่สวนชั้นที่สุด&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;h2 id=&#34;รายละเอยดการใชมาตรการของสนคา&#34;&gt;รายละเอียดการใช้มาตรการของสินค้า&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;มาตรการ :&lt;/strong&gt; มาตรการตอบโต้การทุ่มตลาด (Anti-dumping)&lt;br&gt;
 &lt;strong&gt;ชื่อสินค้า :&lt;/strong&gt; เหล็กกล้าไร้สนิมรีดเย็น ชนิดม้วน แผ่น และแผ่นแถบ&lt;br&gt;

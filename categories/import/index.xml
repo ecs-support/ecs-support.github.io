@@ -311,25 +311,8 @@
       <guid>/pages/import/import-car/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/import-car.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประกาศทเกยวของ&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#การปฏบตพธการ&#34;&gt;การปฏิบัติพิธีการ&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#การจดทำขอมลใบขนสนคา&#34;&gt;การจัดทำข้อมูลใบขนสินค้า&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#การจดทำใบรบรอง&#34;&gt;.การจัดทำใบรับรอง&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#การตรวจสอบ&#34;&gt;การตรวจสอบ&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#การตรวจสอบรถยนต&#34;&gt;การตรวจสอบรถยนต์&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#การเชอมโยงขอมล&#34;&gt;การเชื่อมโยงข้อมูล&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#เอกสารแนบทายประกาศ&#34;&gt;เอกสารแนบท้ายประกาศ&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#ใบรบรองรายละเอยดของรถยนตสำเรจรป&#34;&gt;ใบรับรองรายละเอียดของรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;ประกาศทเกยวของ&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;ul&gt;

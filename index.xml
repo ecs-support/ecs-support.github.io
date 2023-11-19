@@ -24,7 +24,7 @@
     <item>
       <title>Pages</title>
       <link>/pages/</link>
-      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/pages/</guid>
       <description></description>
@@ -48,7 +48,8 @@
       <guid>/tags/</guid>
       <description>&lt;h1 id=&#34;english&#34;&gt;English&lt;/h1&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;

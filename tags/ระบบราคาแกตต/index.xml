@@ -86,19 +86,20 @@
       <guid>/pages/price/gatt_valuation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/gatt.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#วธการกำหนดราคาศลกากร&#34;&gt;วิธีการกำหนดราคาศุลกากร&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#ขอควรทราบในการสำแดงราคาศลกากร&#34;&gt;ข้อควรทราบในการสำแดงราคาศุลกากร&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;ในกรณีของนำเข้า หมายถึง ราคาของของเพื่อความมุ่งหมายในการจัดเก็บอากร ปัจจุบันประเทศไทยใช้ราคาศุลกากรที่เรียกว่า “ระบบราคาแกตต์ (GATT Valuation)” ขององค์การการค้าโลก (World Trade Organization: WTO) ในการกำหนดราคาสินค้าขาเข้า ซึ่งเป็นการปฏิบัติตามพันธกรณีความตกลงว่าด้วยการนำมาตรา 7 ของความตกลงทั่วไปว่าด้วยภาษีศุลกากรและการค้า 1994 มาถือปฏิบัติ (Agreement on Implementation of Article VII of the General Agreement on tariffs and Trade 1994)&lt;/p&gt;
 &lt;p&gt;ปกติการกำหนดราคาศุลกากรจะอยู่บนพื้นฐานของราคาซื้อขายของที่นำเข้า ซึ่งเป็นราคาที่ผู้ซื้อจ่ายหรือ พึงจ่ายจริงให้กับผู้ขายในต่างประเทศ อย่างไรก็ดี ราคาซื้อขายของที่นำเข้านั้น จะอยู่ภายใต้เงื่อนไขบางประการ เช่น การซื้อขาย ผู้ซื้อกับผู้ขายต้องไม่มีความสัมพันธ์กัน หรือการซื้อขายนั้นต้องไม่มีเงื่อนไขอย่างอื่นอีก&lt;/p&gt;
 &lt;h2 id=&#34;วธการกำหนดราคาศลกากร&#34;&gt;วิธีการกำหนดราคาศุลกากร&lt;/h2&gt;

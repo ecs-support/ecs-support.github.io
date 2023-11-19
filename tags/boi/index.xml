@@ -120,9 +120,8 @@
       <guid>/pages/tax-inc/boi/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/boi.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#คำจำกดความ&#34;&gt;คำจำกัดความ&lt;/a&gt;&lt;/li&gt;
@@ -137,10 +136,12 @@
     &lt;li&gt;&lt;a href=&#34;#สอบถามขอมลเพมเตม&#34;&gt;สอบถามข้อมูลเพิ่มเติม&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;การส่งเสริมการลงทุน เป็นมาตรการหนึ่งในการดึงดูดนักลงทุนจากต่างประเทศ ให้เข้ามาลงทุนในกิจการที่รัฐให้ความสำคัญโดยมีหน่วยงานหลักที่ดูแลรับผิดชอบ คือ สานักงานคณะกรรมการส่งเสริมการลงทุน สิทธิและประโยชน์ทางภาษีอากรที่ผู้ได้รับการส่งเสริมการลงทุนได้รับ เป็นไปตามที่บัญญัติไว้ในพระราชบัญญัติการส่งเสริมการลงทุน พ.ศ. 2520 ผู้ประกอบการที่ประสงค์จะขอรับสิทธิและประโยชน์ต้องยื่นคำขอรับการส่งเสริมและต้องปฏิบัติตามหลักเกณฑ์ วิธีการ ตามที่สำนักงานคณะกรรมการส่งเสริมการลงทุนกำหนด.&lt;/p&gt;
 &lt;h2 id=&#34;คำจำกดความ&#34;&gt;คำจำกัดความ&lt;/h2&gt;
 &lt;ul&gt;

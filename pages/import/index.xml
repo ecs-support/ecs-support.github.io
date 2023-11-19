@@ -19,9 +19,8 @@
       
       <guid>/pages/import/postal_guide/</guid>
       <description>&lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#บทนำ&#34;&gt;บทนำ&lt;/a&gt;&lt;/li&gt;
@@ -40,10 +39,12 @@
     &lt;li&gt;&lt;a href=&#34;#คาถามทพบบอย&#34;&gt;คําถามที่พบบ่อย&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;h2 id=&#34;บทนำ&#34;&gt;บทนำ&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/postal/postal-guide/postal-guidepng_Page3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ของตองหาม&#34;&gt;ของต้องห้าม&lt;/h2&gt;
@@ -110,9 +111,8 @@
       <guid>/pages/import/1_ad/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/trade-protect/anti_dumping.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;
@@ -126,10 +126,12 @@
     &lt;li&gt;&lt;a href=&#34;#ขนตอนการไตสวนเพอใชมาตรการ-ad-ของออกเตรเลย&#34;&gt;ขั้นตอนการไต่สวนเพื่อใช้มาตรการ AD ของออกเตรเลีย&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;ข้อมูลขจาก&lt;a href=&#34;https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94&#34;&gt;วิกิพีเดีย&lt;/a&gt; ได้อธิบายความหมายของ &lt;strong&gt;การทุ่มตลาด&lt;/strong&gt; ไว้ว่า &lt;strong&gt;การทุ่มตลาด (dumping)&lt;/strong&gt; ในทางเศรษฐศาสตร์ คือการกำหนดราคาเพื่อขจัดคู่แข่งขันรูปแบบหนึ่ง โดยเฉพาะอย่างยิ่งในบริบทการค้าระหว่างประเทศ การทุ่มตลาดเกิดขึ้นเมื่อผู้ผลิต ส่งผลิตภัณฑ์ออกไปยังอีกประเทศหนึ่ง ที่ราคาต่ำกว่าราคาที่ตั้งในตลาดในประเทศ หรือในปริมาณที่ไม่สามารถอธิบายได้ในการแข่งขันตลาดตามปกติ นิยามทางเทคนิคมาตรฐานของการทุ่มตลาด คือ การที่กำหนดราคาสินค้าชนิดหนึ่งในตลาดต่างประเทศ ต่ำกว่าราคาสินค้าชนิดเดียวกันที่ตั้งในตลาดในประเทศเพื่อการบริโภคของผู้ส่งออก มักเรียกว่า ขายน้อยกว่า &lt;strong&gt;มูลค่าปกติ&lt;/strong&gt; ในการค้าระดับเดียวกันในทางการค้าปกติ ภายใต้ความตกลงองค์การการค้าโลก การทุ่มตลาดถูกประณาม (แต่ไม่ถูกห้าม) หากกระทำหรือคุกคามจะก่อความเสียหายอย่างสำคัญต่ออุตสาหกรรมในประเทศในประเทศผู้นำเข้า คำว่า &lt;strong&gt;การทุ่มตลาด&lt;/strong&gt; มีความหมายโดยนัยเชิงลบ เพาะผู้สนับสนุนตลาดแข่งขันมองการทุ่มตลาดว่าเป็นลัทธิคุ้มครองรูปแบบหนึ่ง ยิ่งไปกว่านั้น ผู้สนับสนุนกรรมกรและผู้ใช้แรงงานเชื่อว่า การปกป้องธุรกิจจากพฤติกรรมการขจัดการแข่งขัน เช่น การทุ่มตลาด ช่วยบรรเทาผลร้ายแรงบางประการของพฤติการณ์เช่นนั้นระหว่างเศรษฐกิจที่ขั้นการพัฒนาต่าง ๆ กัน&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.thaitr.go.th/en/home&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt; ซึ่งเป็นหน่วยงานที่มีภารกิจหลักในเรื่องดังกล่าว ได้นิยามความหมายไว้ว่า &lt;strong&gt;มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD)&lt;/strong&gt; เป็นมาตรการทางการค้าที่ประเทศผู้นำเข้า ใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหายจากการทุ่มตลาด อันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;การทุ่มตลาด (Dumping)&lt;/strong&gt; คือ การส่งออกสินค้าจากประเทศหนึ่งไปยังอีกประเทศหนึ่งเพื่อประโยชน์ในทางพาณิชย์ โดยที่ราคาส่งออกนั้นต่ำกว่ามูลค่าปกติของสินค้าชนิดเดียวกันที่จำหน่ายเพื่อการบริโภคภายในประเทศผู้ส่งออก / ผู้ผลิตเอง&lt;/p&gt;
@@ -1150,25 +1152,8 @@
       <guid>/pages/import/import-car/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/import-car.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประกาศทเกยวของ&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#การปฏบตพธการ&#34;&gt;การปฏิบัติพิธีการ&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#การจดทำขอมลใบขนสนคา&#34;&gt;การจัดทำข้อมูลใบขนสินค้า&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#การจดทำใบรบรอง&#34;&gt;.การจัดทำใบรับรอง&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#การตรวจสอบ&#34;&gt;การตรวจสอบ&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#การตรวจสอบรถยนต&#34;&gt;การตรวจสอบรถยนต์&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#การเชอมโยงขอมล&#34;&gt;การเชื่อมโยงข้อมูล&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#เอกสารแนบทายประกาศ&#34;&gt;เอกสารแนบท้ายประกาศ&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#ใบรบรองรายละเอยดของรถยนตสำเรจรป&#34;&gt;ใบรับรองรายละเอียดของรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;ประกาศทเกยวของ&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;ul&gt;
@@ -1268,19 +1253,20 @@
       <guid>/pages/import/postal/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/postal.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#การสงของทางไปรษณยพสดเรงดวน&#34;&gt;การส่งของทางไปรษณีย์/พัสดุเร่งด่วน&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#เอกสารทตองใชในการขอรบสงของ&#34;&gt;เอกสารที่ต้องใช้ในการขอรับสิ่งของ&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;h2 id=&#34;การสงของทางไปรษณยพสดเรงดวน&#34;&gt;การส่งของทางไปรษณีย์/พัสดุเร่งด่วน&lt;/h2&gt;
 &lt;p&gt;การส่งของทางไปรษณีย์ระหว่างประเทศ จะผ่านการดำเนินการโดย &lt;strong&gt;บริษัท ไปรษณีย์ไทย จำกัด&lt;/strong&gt; การส่งของทางไปรษณีย์ สามารถดำเนินการได้ 5 ประเภท คือ&lt;/p&gt;
 &lt;ol&gt;

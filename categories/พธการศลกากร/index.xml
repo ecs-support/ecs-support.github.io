@@ -30,19 +30,8 @@
       <guid>/pages/restricted/dangerous_goods/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/Shipping-dangerous-goods.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประเภทท-1-วตถระเบด&#34;&gt;ประเภทที่ 1 วัตถุระเบิด&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประเภทท-2-กาซ&#34;&gt;ประเภทที่ 2 ก๊าซ&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประเภทท-3-ของเหลวไวไฟ&#34;&gt;ประเภทที่ 3 ของเหลวไวไฟ&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประเภทท-4-ของแขงไวไฟ&#34;&gt;ประเภทที่ 4 ของแข็งไวไฟ&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประเภทท-5-วตถออกซไดซและวตถอนทรยเปอรออกไซด&#34;&gt;ประเภทที่ 5 วัตถุออกซิไดซ์และวัตถุอินทรีย์เปอร์ออกไซด์&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประเภทท-6-วตถมพษและวตถตดเชอ&#34;&gt;ประเภทที่ 6 วัตถุมีพิษและวัตถุติดเชื้อ&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประเภทท-7-วตถกมมนตรงส&#34;&gt;ประเภทที่ 7 วัตถุกัมมันตรังสี&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประเภทท-8-วตถกดกรอน&#34;&gt;ประเภทที่ 8 วัตถุกัดกร่อน&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ประเภทท-9-วสดอนตรายเบดเตลด&#34;&gt;ประเภทที่ 9 วัสดุอันตรายเบ็ดเตล็ด&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;สินค้าอันตราย (Dangerous Goods) หมายถึง สิ่งของ หรือวัตถุที่มีคุณสมบัติทางเคมีหรือทางกายภาพโดยตัวของมันเอง หรือเมื่อสัมผัสกับสารอื่น (อากาศ หรือ น้ำ ฯลฯ) ทำให้เกิดอันตรายต่อมนุษย์ ทรัพย์สิน หรือต่อสภาพแวดล้อม สหประชาชาติ (United Nations) ได้จัดทำข้อแนะนำในการขนส่งสินค้าอันตราย (Recommendations on the Transport of Dangerous Goods) มีรายละเอียดเกี่ยวกับ&lt;/p&gt;
 &lt;p&gt;– การจำแนกประเภทสินค้าอันตราย (Classification).&lt;br&gt;

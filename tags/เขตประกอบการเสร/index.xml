@@ -20,9 +20,8 @@
       <guid>/pages/tax-inc/ieat/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/i-eat-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#หลกการทวไป&#34;&gt;หลักการทั่วไป&lt;/a&gt;&lt;/li&gt;
@@ -32,10 +31,12 @@
     &lt;li&gt;&lt;a href=&#34;#พธการศลกากรทควรทราบ&#34;&gt;พิธีการศุลกากรที่ควรทราบ&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;h2 id=&#34;หลกการทวไป&#34;&gt;หลักการทั่วไป&lt;/h2&gt;
 &lt;p&gt;พระราชบัญญัติการนิคมอุตสาหกรรมแห่งประเทศไทย พ.ศ. 2522 ได้มีการจัดตั้ง การนิคมอุตสาหกรรมแห่งประเทศไทยขึ้นเป็นรัฐวิสาหกิจสังกัดกระทรวงอุตสาหกรรมมีชื่อย่อว่า &amp;ldquo;กนอ.&amp;rdquo; มีวัตถุประสงค์ในการจัดตั้งหลายประการ โดยเริ่มจากการจัดหาที่ดินที่เหมาะสมเพื่อจัดตั้ง หรือขยายนิคมอุตสาหกรรม หรือเพื่อดำเนินธุรกิจอื่นที่จะเป็นประโยชน์ ดำเนินการปรับปรุงที่ดินเพื่อให้บริการ ตลอดจนจัดสิ่งอำนวยความสะดวกในการดำเนินงาน รวมทั้งสาธารณูปโภคต่างๆให้แก่ผู้ประกอบกิจการอุตสาหกรรมในเขตนิคมอุตสาหกรรม พื้นที่เขตนิคมอุตสาหกรรมแบ่งออกเป็น 2 ลักษณะ คือ&lt;/p&gt;
 &lt;ol&gt;
@@ -268,9 +269,8 @@
       <guid>/pages/clearance/catergory-09/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/img_09.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#สวนท--1-บททวไป&#34;&gt;ส่วนที่  1 บททั่วไป&lt;/a&gt;&lt;/li&gt;
@@ -279,10 +279,12 @@
     &lt;li&gt;&lt;a href=&#34;#สวนท--4-การปฏบตพธการใบขนสนคาขาเขาโอนยายจากเขตประกอบการเสรทางอเลกทรอนกส&#34;&gt;ส่วนที่  4 การปฏิบัติพิธีการใบขนสินค้าขาเข้าโอนย้ายจากเขตประกอบการเสรีทางอิเล็กทรอนิกส์&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;ข้อ 78&lt;/strong&gt; ในหมวดนี้&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;“เขตประกอบการเสรี”&lt;/strong&gt;  ให้มีความหมายตามที่บัญญัติไว้ในกฎหมายว่าด้วยการนิคมอุตสาหกรรมแห่งประเทศไทย&lt;br&gt;
 &lt;strong&gt;“ผู้ประกอบอุตสาหกรรม”&lt;/strong&gt;  ให้มีความหมายตามที่บัญญัติไว้ในกฎหมายว่าด้วยการนิคมอุตสาหกรรมแห่งประเทศไทย&lt;br&gt;

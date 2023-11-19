@@ -486,9 +486,8 @@
       <guid>/pages/clearance/catergory-07/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/img_07.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
- &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
- &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
- 
+  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#สวนท--1-บททวไป&#34;&gt;ส่วนที่  1 บททั่วไป&lt;/a&gt;&lt;/li&gt;
@@ -497,10 +496,12 @@
     &lt;li&gt;&lt;a href=&#34;#สวนท--4-การนำของออกจากคลงสนคาทณฑบนเพอใชหรอจำหนายในราชอาณาจกร&#34;&gt;ส่วนที่  4 การนำของออกจากคลังสินค้าทัณฑ์บนเพื่อใช้หรือจำหน่ายในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-   &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;br&gt;
+  
+  
     &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;br&gt;
+     &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;ข้อ 67&lt;/strong&gt; ในหมวดนี้&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;คำว่า  &lt;strong&gt;“ผู้นำของเข้าในคลังสินค้าทัณฑ์บน”&lt;/strong&gt;  หมายความถึง  ผู้นำของเข้าที่นำของเข้ามาในราชอาณาจักรเพื่อขนเข้าเก็บในคลังสินค้าทัณฑ์บน  และเป็นผู้ได้รับใบอนุญาตให้จัดตั้งคลังสินค้าทัณฑ์บนแล้ว  หรือผู้ได้รับใบอนุญาตให้จัดตั้งคลังสินค้าทัณฑ์บนยินยอมให้นำของเข้าเก็บในคลังสินค้าทัณฑ์บนนั้น ๆ  ได้&lt;/li&gt;
