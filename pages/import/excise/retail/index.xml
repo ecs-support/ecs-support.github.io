@@ -219,7 +219,7 @@
       <description>
 
 &lt;script&gt; 
-  location.replace(&#34;/KM/customs/pages/import/excise/&#34;)  
+  location.replace(&#34;/pages/import/excise/&#34;)  
 &lt;/script&gt;
 
 </description>
