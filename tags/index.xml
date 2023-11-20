@@ -7,10 +7,28 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VAT</title>
+      <link>/tags/vat/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>การนำเข้าสินค้า</title>
+      <link>/tags/import/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/import/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Thai- Peru</title>
@@ -2124,15 +2142,6 @@
       <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AD%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%A2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>การนำเข้าสินค้า</title>
-      <link>/tags/import/</link>
-      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/import/</guid>
       <description></description>
     </item>
     
