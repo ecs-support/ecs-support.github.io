@@ -13,20 +13,20 @@
     
     
     <item>
+      <title>Import</title>
+      <link>/tags/import/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/import/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>VAT</title>
       <link>/tags/vat/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/vat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>การนำเข้าสินค้า</title>
-      <link>/tags/import/</link>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/import/</guid>
       <description></description>
     </item>
     
@@ -3159,15 +3159,6 @@
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>การนำเข้าสินค้า</title>
-      <link>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2/</guid>
       <description></description>
     </item>
     
