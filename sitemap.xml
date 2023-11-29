@@ -2222,12 +2222,6 @@
     <loc>/post/law/customs/2564/2564-59/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/exempt100/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/exempt5/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/news/2021-03-30/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -2594,13 +2588,16 @@
     <loc>/tags/dfqf/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/exempt100/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%AA%E0%B8%94/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/announcement/customs/dt_2563-09/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/%E0%B8%AA%E0%B8%A1%E0%B8%AD./</loc>
+    <loc>/tags/%E0%B8%AA%E0%B8%A1%E0%B8%AD/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/news/2020-09-30/</loc>
@@ -3272,7 +3269,5 @@
     <loc>/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</loc>
   </url><url>
     <loc>/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</loc>
-  </url><url>
-    <loc>/tags/%E0%B8%A3%E0%B8%A7%E0%B8%A1-%E0%B8%A8%E0%B8%9A./</loc>
   </url>
 </urlset>
