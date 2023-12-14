@@ -262,27 +262,63 @@
     
     <item>
       <title>หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรในการคืนอากรตามมาตรา 29 (e-Drawback)</title>
-      <link>/post/announcement/customs/2563-126/</link>
+      <link>/post/law/customs/2563/2563-126/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/announcement/customs/2563-126/</guid>
+      <guid>/post/law/customs/2563/2563-126/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;ประกาศกรมศลกากรท-1262563-เรอง-หลกเกณฑ-วธการ-และเงอนไขการปฏบตพธการศลกากรในการคนอากรตามมาตรา-29-แหงพระราชบญญตศลกากร-พศ-2560-ดวยระบบอเลกทรอนกส-e-drawback&#34;&gt;ประกาศกรมศุลกากรที่ 126/.2563 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรในการคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ด้วยระบบอิเล็กทรอนิกส์ (e-Drawback)&lt;/h2&gt;
-&lt;p&gt;มีผลบังคับตั้งแต่&lt;em&gt;วันที่ 1 สิงหาคม 2563&lt;/em&gt; เป็นต้นไป&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;รายละเอยดเพมเตม&#34;&gt;รายละเอียดเพิ่มเติม&lt;/h2&gt;
+&lt;p&gt;&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;h2 id=&#34;สรปเบองตน&#34;&gt;&lt;em&gt;สรุปเบื้องต้น&lt;/em&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;การคนอากรตามมาตรา-29-ดวยระบบอเลกทรอนกส-e-drawback&#34;&gt;การคืนอากรตามมาตรา 29 ด้วยระบบอิเล็กทรอนิกส์ (e-Drawback)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;กรมศุลกากรมีการพัฒนาระบบดังกล่าวในรูปแบบ web ต้องลงทะเบียนเพื่อเข้าใช้งานที่ NSW มีชื่อว่า e-Form&lt;/li&gt;
+&lt;li&gt;กรมศุลกากรยังไม่แจก schema ให้ผู้พัฒนา software โดยแจ้งว่าตามแผนอยากจะทดสอบให้ผุ้ประกอบการมาใช้ e-form เพื่อตรวจสอบความพร้อมและความถูกต้อง ให้เรียบร้อยก่อนเผยแพร่ให้ software house ต่อไป&lt;/li&gt;
+&lt;li&gt;ผู้นำเข้า-ส่งออกหรือตัวแทน ที่สนใจเข้าใช้งานระบบดังกล่าว ต้องเข้าไปขอคำปรึกษาที่ส่วนคืนอากรเพื่อการส่งออก กองสิทธิประโยชน์ทางภาษีอากร (ตามบทเฉพาะกาล)&lt;/li&gt;
+&lt;li&gt;ต้องดำเนินการปรับปรุงสูตรการผลิต (ยกเลิก OR) บัญชีวัตถุดิบและชื่อทางการค้า ให้เรียบร้อยก่อนใช้งานระบบ&lt;/li&gt;
+&lt;li&gt;ในส่วนของการบันทึกข้อมูลในใบขนสินค้า จากการตรวจสอบพบเพียงจุดเดียว และต้องบันทึกเมื่อผู้ประกอบการได้เข้าระบบการคืนอากรตามรูปแบบใหม่เรียบร้อยแล้ว (ถ้ายังไม่เข้าระบบใหม่ ทำทุกอย่างเหมือนเดิม) มีรายละเอียดคือ รหัสวัตถุดิบที่ได้ยื่นบัญชีวัตถุดิบไว้แล้ว พร้อมลำดับที่ของชื่อทางการค้า (ถ้ามี) รหัสวัตถุดิบ/ลำดับชื่อทางการค้า (xxxxxx/000) ในช่อง &lt;strong&gt;Customs Product Code (RTC Product Code)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;เรื่องนี้เรารู้รายละเอียดพอ ๆ กับผู้ประกอบการ กรมศุลฯ ยังไม่มีแจ้งอะไรเพิ่มเติม ถ้าต้องการรายละเอียดเพิ่มเติมคนที่น่าจะตอบได้ดีที่สุดคือ ส่วนคืนอากรเพื่อการส่งออก กองสิทธิประโยชน์ทางภาษีอากร&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;เอกสารทเกยวของ&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ประกาศกรมศุลกากรที่ 126/.2563 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรใน&lt;strong&gt;การคืนอากรตามมาตรา 29&lt;/strong&gt; แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ด้วยระบบอิเล็กทรอนิกส์ (e-Drawback) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt; มีผลบังคับตั้งแต่&lt;strong&gt;วันที่ 1 สิงหาคม 2563&lt;/strong&gt; เป็นต้นไป&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;เอกสารประกอบการบรรยาย&lt;strong&gt;โครงการพัฒนาระบบอิเล็กทรอนิกส์เต็มรูปแบบในการคืนอากรเพื่อการส่งออกตามมาตรา 29 (e-Drawback)&lt;/strong&gt; &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/present_e-drawback.pdf&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;  ซึ่งกรมศุลกากรได้จัดขึ้น เมื่อ&lt;strong&gt;วันอังคารที่ 22 ตุลาคม 2562&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;บันทึกเมื่อ : 19 ส.ค. 2563&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;ประกาศกรมศุลกากรที่ 126/2563 เรื่อง &lt;em&gt;หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรในการคืนอากรตามมาตรา 29&lt;/em&gt; แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ด้วยระบบอิเล็กทรอนิกส์ (e-Drawback) มีผลบังคับ &lt;span class=&#34;em-green&#34;&gt; ตั้งแต่วันที่ 1 สิงหาคม 2563 เป็นต้นไป&lt;/span&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./2563-126.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;      
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./2563-126.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
+  ดาวน์โหลดประกาศ
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hahahugoshortcode-s8-hbhb&#34;&gt;&lt;span class=&#34;em-hl warning&#34;&gt; รายละเอียดเพิ่มเติม&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;เอกสารประกอบการบรรยาย&lt;strong&gt;โครงการพัฒนาระบบอิเล็กทรอนิกส์เต็มรูปแบบในการคืนอากรเพื่อการส่งออกตามมาตรา 29 (e-Drawback)&lt;/strong&gt; &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/knowledge/e-drawback_present/&#34;&gt;[&lt;em&gt;ดาวน์โหลด&lt;/em&gt;]&lt;/a&gt;  ซึ่งกรมศุลกากรได้จัดขึ้น เมื่อ&lt;strong&gt;วันอังคารที่ 22 ตุลาคม 2562&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;./2563-126.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : กรมศุลกากร&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
