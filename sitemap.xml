@@ -894,16 +894,34 @@
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/news/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/news/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A2%E0%B8%99/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/news/repeat/exchange_rate/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/export/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
@@ -917,9 +935,6 @@
     <loc>/talk/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/export/export-02/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -930,9 +945,6 @@
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/law/ministry/2024-01-04/</loc>
-    <lastmod>2024-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/law/</loc>
@@ -955,18 +967,6 @@
   </url><url>
     <loc>/tags/%E0%B8%A3%E0%B8%96%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B8%B2/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/news/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/news/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A2%E0%B8%99/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/news/repeat/exchange_rate/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/law/customs/2566/2566-174/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
@@ -2195,10 +2195,10 @@
     <loc>/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pages/knowledge/iso/law/pdpa-2564/</loc>
+    <loc>/pages/knowledge/iso/law/pdpa/pdpa-2564/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pages/knowledge/iso/law/pdpa/pdpa-2564/</loc>
+    <loc>/pages/knowledge/iso/law/pdpa-2564/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/law/customs/2564/2564-74/</loc>
@@ -2810,10 +2810,10 @@
     <loc>/tags/ai/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pages/knowledge/iso/law/pdpa-2563/</loc>
+    <loc>/pages/knowledge/iso/law/pdpa/pdpa-2563/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pages/knowledge/iso/law/pdpa/pdpa-2563/</loc>
+    <loc>/pages/knowledge/iso/law/pdpa-2563/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2/</loc>
