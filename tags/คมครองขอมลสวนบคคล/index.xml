@@ -7,10 +7,122 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/%E0%B8%84%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%84%E0%B8%84%E0%B8%A5/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>หลักเกณฑ์และวิธีการในการแจ้งเหตุการละเมิดข้อมูลส่วนบุคคล พ.ศ. 2565</title>
+      <link>/pages/knowledge/iso/law/pdpa-2565-05/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/knowledge/iso/law/pdpa-2565-05/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ประกาศกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม&lt;/strong&gt; เรื่อง &lt;em&gt;หลักเกณฑ์และวิธีการในการแจ้งเหตุการละเมิดข้อมูลส่วนบุคคล พ.ศ. 2565&lt;/em&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;เมื่อวันที่ 15 ธันวาคม 2565 ที่ผ่านมา คณะกรรมการคุ้มครองส่วนบุคคล ได้เผยแพร่ประกาศฉบับใหม่ที่มีเนื้อหาเกี่ยวกับ วิธีการในการแจ้งเหตุละเมิดข้อมูลส่วนบุคคล โดยมีใจความสำคัญอยู่ที่รายละเอียดและขั้นตอนที่ Data Controller ต้องปฏิบัติเมื่อเกิดเหตุละเมิด รายละเอียดที่ต้องคำนึงในการประเมินความเสี่ยง และการแจ้งเหตุละเมิดข้อมูลส่วนบุคคลแก่เจ้าของข้อมูลส่วนบุคคล รวมถึงรายละเอียดอื่นๆ ที่เป็นประโยชน์ต่อผู้ควบคุมข้อมูลส่วนบุคคล รายละเอียดมีดังนี้&lt;/p&gt;
+&lt;h2 id=&#34;ความหมายของ-การละเมดขอมลสวนบคคล&#34;&gt;ความหมายของ การละเมิดข้อมูลส่วนบุคคล&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;การละเมิดข้อมูลส่วนบุคคล&amp;rdquo;&lt;/strong&gt; หมายถึง การละเมิดมาตรการรักษาความมั่นคงปลอดภัยที่ทำให้เกิดการสูญหาย เข้าถึง ใช้ เปลี่ยนแปลง แก้ไข หรือเปิดเผยข้อมูลส่วนบุคคลโดยปราศจากอำนาจ หรือโดยมิชอบ ไม่ว่าจะเกิดจากเจตนา ความจงใจ ความประมาทเลินเล่อ การกระทำโดยปราศจากอำนาจหรือโดยมิชอบ การกระทำความผิดเกี่ยวกับคอมพิวเตอร์ ภัยคุกคามทางไซเบอร์ ข้อผิดพลาดบกพร่องหรืออุบัติเหตุ หรือเหตุอื่นใด&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://t-reg.co/wp-content/uploads/2023/01/5-FB-Post-%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%94%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;5-ขนตอนเตรยมพรอม-สำหรบ-data-controller-หากไดรบแจงขอมลวา-ม-หรอ-นาจะมเหตละเมดขอมลสวนบคคล&#34;&gt;5 ขั้นตอนเตรียมพร้อม สำหรับ Data Controller หากได้รับแจ้งข้อมูลว่า มี หรือ น่าจะมีเหตุละเมิดข้อมูลส่วนบุคคล&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;‌ประเมินความน่าเชื่อถือของข้อมูล และตรวจสอบข้อเท็จจริงเกี่ยวกับการละเมิด โดยตรวจสอบมาตรการรักษาความมั่นคงปลอดภัยของข้อมูลส่วนบุคคล รวมถึงการประเมินความเสี่ยงจากการละเมิดข้อมูลส่วนบุคคล&lt;/li&gt;
+&lt;li&gt;หากประเมินความเสี่ยงแล้วพบว่า การละเมิดดังกล่าวมีความเสี่ยงสูงที่จะมีผลกระทบต่อสิทธิและเสรีภาพของบุคคล ให้ดำเนินการป้องกัน ระงับ หรือแก้ไขเพื่อให้การละเมิดดังกล่าวสิ้นสุด หรือไม่ให้การละเมิดส่งผลกระทบเพิ่มเติม โดยทันทีเท่าที่จะทำได้&lt;/li&gt;
+&lt;li&gt;เมื่อพิจารณาแล้วเห็นว่า มีเหตุอันควรเชื่อว่ามีการละเมิดเกิดขึ้นจริง ให้แจ้งเหตุดังกล่าวแก่ PDPC (&lt;em&gt;ภายใน 72 ชั่วโมง&lt;/em&gt;) &lt;em&gt;นับแต่พบเหตุละเมิด&lt;/em&gt; เว้นแต่เป็นกรณีไม่มีความเสี่ยง&lt;/li&gt;
+&lt;li&gt;กรณีมีความเสี่ยงสูง ต้องแจ้งเหตุละเมิดให้เจ้าของข้อมูลส่วนบุคคลทราบ พร้อมกับแนวทางการเยียวยา (โดยไม่ชักช้า)&lt;/li&gt;
+&lt;li&gt;ดำเนินการตามมาตรการที่จำเป็น เหมาะสม เพื่อระงับ ตอบสนอง แก้ไขเหตุละเมิด และป้องกันเหตุละเมิด และผลกระทบที่อาจเกิดในลักษณะเดียวกันในอนาคต รวมถึงการทบทวน security measures ให้เหมาะสม โดยคำนึงถึงระดับความเสี่ยง บริบท สภาพแวดล้อม ลักษณะการประมวลผลข้อมูลส่วนบุคคล&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;รายละเอยดการแจงเหตละเมดขอมลสวนบคคล-ตอ-คณะกรรมการคมครองขอมลสวนบคคล&#34;&gt;รายละเอียดการแจ้งเหตุละเมิดข้อมูลส่วนบุคคล ต่อ คณะกรรมการคุ้มครองข้อมูลส่วนบุคคล&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://t-reg.co/wp-content/uploads/2023/01/8-FB-Post-%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%94%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5-1024x1024.jpg&#34; alt=&#34;การละเมิดข้อมูลส่วนบุคคล&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;การแจงเหตละเมดขอมลสวนบคคลแก-เจาของขอมลสวนบคคล-data-subject&#34;&gt;การแจ้งเหตุละเมิดข้อมูลส่วนบุคคลแก่ เจ้าของข้อมูลส่วนบุคคล (Data Subject)&lt;/h2&gt;
+&lt;p&gt;หาก Data Controller หรือ Data Processor ประเมินแล้วพบว่าการละเมิดข้อมูลส่วนบุคคลที่เกิดขึ้น มีความเสี่ยงสูงที่จะมีผลกระทบต่อสิทธิเสรีภาพของบุคคล ให้แจ้งเหตุละเมิดแก่เจ้าของข้อมูลที่ได้รับผลกระทบ (โดยไม่ชักช้า) โดยต้องมีรายละเอียดดังนี้&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;‌ข้อมูลโดยสังเขปเกี่ยวกับลักษณะของการละเมิดข้อมูลส่วนบุคคล&lt;/li&gt;
+&lt;li&gt;ช่องทางติดต่อ DPO หรือบุคคลที่ได้รับมอบหมายให้ประสานงาน&lt;/li&gt;
+&lt;li&gt;ผลกระทบที่อาจเกิดขึ้น&lt;/li&gt;
+&lt;li&gt;แนวทางเยียวยาความเสียหาย มาตรการที่จะป้องกัน ระงับ แก้ไขเหตุละเมิด รวมถึงข้อแนะนำเกี่ยวกับมาตรการที่ Data Subject อาจดำเนินการได้ เพื่อป้องกัน ระงับ แก้ไข เยียวยาความเสียหาย&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
+  ดาวน์โหลดประกาศ
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มาบทความ : &lt;a href=&#34;https://t-reg.co/blog/news/guideline-for-data-breach-report-pdpa-law/&#34;&gt;t-reg&lt;/a&gt;&lt;br&gt;
+ที่มา : &lt;a href=&#34;https://www.ratchakitcha.soc.go.th/DATA/PDF/2565/E/292/T_0007.PDF&#34;&gt;ราชกิจจานุเบกษา&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การยกเว้นการบันทึกรายการของผู้ควบคุมข้อมูลส่วนบุคคลซึ่งเป็นกิจการขนาดเล็ก พ.ศ. 2565</title>
+      <link>/pages/knowledge/iso/law/pdpa-2565-01/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/knowledge/iso/law/pdpa-2565-01/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ประกาศกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม&lt;/strong&gt; เรื่อง &lt;em&gt;การยกเว้นการบันทึกรายการของผู้ควบคุมข้อมูลส่วนบุคคลซึ่งเป็นกิจการขนาดเล็ก พ.ศ. 2565&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ผู้ควบคุมข้อมูลส่วนบุคคลตามประกาศฯ ฉบับดังกล่าวหมายถึง บริษัท ห้างหุ้นส่วนทั้งเป็นนิติบุคคลและไม่เป็นนิติบุคคล หรือผู้ประกอบธุรกิจฟรีแลนซ์ ที่มีการเก็บรวบรวม ใช้ หรือเปิดเผยข้อมูลส่วนบุคคลของลูกค้าหรือพนักงาน โดยผู้ประกอบการที่มีลักษณะตามที่กำหนดไว้ในประกาศฯ ได้รับการยกเว้นไม่ต้องทำ &lt;em&gt;“บันทึกรายการ”&lt;/em&gt; ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;วิสาหกิจขนาดย่อมหรือวิสาหกิจขนาดกลางตามกฎหมายว่าด้วยการส่งเสริมวิสาหกิจขนาดกลางและขนาดย่อม&lt;/li&gt;
+&lt;li&gt;วิสาหกิจชุมชนหรือเครือข่ายวิสาหกิจชุมชน&lt;/li&gt;
+&lt;li&gt;วิสาหกิจเพื่อสังคมหรือกลุ่มกิจการเพื่อสังคม&lt;/li&gt;
+&lt;li&gt;สหกรณ์ ชุมนุมสหกรณ์ หรือกลุ่มเกษตรกรตามกฎหมายว่าด้วยสหกรณ์&lt;/li&gt;
+&lt;li&gt;มูลนิธิ สมาคม องค์กรศาสนา หรือองค์กรที่ไม่แสวงหากำไร&lt;/li&gt;
+&lt;li&gt;กิจการในครัวเรือนหรือกิจการอื่นในลักษณะเดียวกัน&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ตามกฎกระทรวงกําหนดลักษณะของวิสาหกจิขนาดกลางและขนาดย่อม พ.ศ. 2562 แบ่งประเภทวิสาหกิจไว้ดังนี้&lt;/p&gt;
+&lt;p&gt;ทั้งนี้ ผู้ให้บริการที่ได้รับการยกเว้น ต้องไม่เป็นผู้ให้บริการที่ต้องเก็บรักษาข้อมูลจราจร ทางคอมพิวเตอร์ตามกฎหมายว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ที่มีการเก็บรวบรวมข้อมูลส่วนบุคคลปริมาณมากประเภทต่อไปนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ผู้ประกอบกิจการโทรคมนาคมและ กิจการกระจายภาพและเสียง (Telecom and Broadcast Carrier)&lt;/li&gt;
+&lt;li&gt;ผู้ให้บริการการเข้าถึงระบบเครือข่ายคอมพิวเตอร์ (Access Service Provider)&lt;/li&gt;
+&lt;li&gt;ผู้ให้บริการเช่าระบบคอมพิวเตอร์เพื่อให้บริการโปรแกรมประยุกต์ต่างๆ (Hosting Service Provider)&lt;/li&gt;
+&lt;li&gt;ผู้ให้บริการแอปพลิเคชันติดต่อสื่อสารข้อมูลถึงกัน (Online Application Store)&lt;/li&gt;
+&lt;li&gt;ผู้ให้บริการสื่อสังคมออนไลน์&lt;/li&gt;
+&lt;li&gt;ผู้ให้บริการข้อมูลคอมพิวเตอร์ผ่านแอปพลิเคชันต่างๆ (Content and Application Service Provider)&lt;/li&gt;
+&lt;li&gt;ผู้ให้บริการคลาวด์ซึ่งให้บริการโดยตรงกับผู้ใช้งาน เช่น IaaS PaaS SaaS CDN&lt;/li&gt;
+&lt;li&gt;ผู้ให้บริการดิจิทัลที่ใช้เครือข่ายคอมพิวเตอร์เป็นส่วนหนึ่งของการให้บริการ (Digital Service Provider)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;อย่างไรก็ตาม ผู้ประกอบการที่ได้รับการยกเว้นไม่ต้องทำ &lt;strong&gt;“บันทึกรายการ”&lt;/strong&gt; ยังมีหน้าที่อื่น ๆ ตามที่กฎหมายกำหนด อาทิ ยังต้องแจ้งประกาศการคุ้มครองข้อมูลส่วนบุคคล (Privacy Notice) และมีมาตรการรักษาความมั่นคงปลอดภัยที่เหมาะสมกับขนาดและประเภทของกิจการ เป็นต้น&lt;/p&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
+  ดาวน์โหลดประกาศ
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.ratchakitcha.soc.go.th/DATA/PDF/2565/E/140/T_0024.PDF&#34;&gt;ราชกิจจานุเบกษา&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>การยกเว้นการบันทึกรายการของผู้ควบคุมข้อมูลส่วนบุคคลซึ่งเป็นกิจการขนาดเล็ก พ.ศ. 2565</title>
@@ -32,6 +144,46 @@
 &lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://www.ratchakitcha.soc.go.th/DATA/PDF/2565/E/140/T_0024.PDF&#34;&gt;ราชกิจจานุเบกษา&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>มาตรการรักษาความมั่นคงปลอดภัยของผู้ควบคุมข้อมูลส่วนบุคคล พ.ศ. 2565</title>
+      <link>/pages/knowledge/iso/law/pdpa-2565-03/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/knowledge/iso/law/pdpa-2565-03/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ประกาศกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม&lt;/strong&gt; เรื่อง &lt;em&gt;มาตรการรักษาความมั่นคงปลอดภัยของผู้ควบคุมข้อมูลส่วนบุคคล พ.ศ. 2565&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;การจัดให้มีมาตรการรักษาความมั่นคงปลอดภัยที่เหมาะสมเป็นหน้าที่ที่สำคัญของผู้ควบคุมข้อมูลส่วนบุคคล ประกาศฉบับนี้จึงได้กำหนดมาตรฐานขั้นต่ำเพื่อเป็นแนวทางในการดำเนินการสำหรับองค์กรต่าง ๆ โดยในส่วนของผู้ประกอบการขนาดเล็กควรให้ความสำคัญกับประเด็นดังต่อไปนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;องค์กรต้องมีมาตรการรักษาความมั่นคงปลอดภัยที่เหมาะสมไม่ว่าจะเก็บข้อมูลในรูปแบบกระดาษหรืออิเล็กทรอนิกส์&lt;/li&gt;
+&lt;li&gt;ต้องธำรงไว้ซึ่งการเป็นความลับของข้อมูล (confidentiality) ความถูกต้องครบถ้วน (integrity) และทำให้ข้อมูลพร้อมใช้งาน (availability)&lt;/li&gt;
+&lt;li&gt;ต้องมีมาตรการในการป้องกันการสูญหาย เข้าถึง ใช้ เปลี่ยนแปลง แก้ไข หรือเปิดเผยข้อมูลส่วนบุคคล โดยปราศจากอำนาจหรือโดยมิชอบ&lt;/li&gt;
+&lt;li&gt;ต้องทบทวนมาตรการเมื่อมีความจำเป็น เช่นเมื่อมีเหตุการละเมิดเกิดขึ้น&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;สำหรับผู้ประกอบการขนาดเล็ก ประกาศฉบับนี้กำหนดชัดเจนว่าให้จัดมาตรการป้องกันเท่าที่จำเป็นเหมาะสม โดยคำนึงถึงระดับความเสี่ยงขององค์กร&lt;/p&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
+  ดาวน์โหลดประกาศ
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.ratchakitcha.soc.go.th/DATA/PDF/2565/E/140/T_0028.PDF&#34;&gt;ราชกิจจานุเบกษา&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -62,6 +214,58 @@
     
     <item>
       <title>หลักเกณฑ์การพิจารณาออกคำสั่งลงโทษปรับทางปกครองของคณะกรรมการผู้เชี่ยวชาญ พ.ศ. 2565</title>
+      <link>/pages/knowledge/iso/law/pdpa-2565-04/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/knowledge/iso/law/pdpa-2565-04/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ประกาศกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม&lt;/strong&gt; เรื่อง &lt;em&gt;หลักเกณฑ์การพิจารณาออกคำสั่งลงโทษปรับทางปกครองของคณะกรรมการผู้เชี่ยวชาญ พ.ศ. 2565&lt;/em&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ประกาศนี้เป็นการกำหนดหลักเกณฑ์พิจารณาลงโทษปรับทางปกครองมีความชัดเจนมากขึ้น โดยให้คณะกรรมการผู้เชี่ยวชาญซึ่งมีหน้าที่พิจารณาเรื่องร้องเรียน ตรวจสอบการกระทำ ไกล่เกลี่ยข้อพิพาท และออกคำสั่งทางปกครองดำเนินการโดยคำนึงถึงปัจจัยต่าง ๆ หลายประการ อาทิ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;เป็นการกระทำผิดโดยเจตนาหรือจงใจ หรือประมาทเลินเล่ออย่างร้ายแรง หรือขาดความระมัดระวังตามสมควร&lt;/li&gt;
+&lt;li&gt;ความร้ายแรงของพฤติกรรมที่กระทำผิด&lt;/li&gt;
+&lt;li&gt;ขนาดกิจการของผู้ควบคุมข้อมูลส่วนบุคคลหรือผู้ประมวลผลข้อมูลส่วนบุคคล&lt;/li&gt;
+&lt;li&gt;ประวัติการถูกลงโทษปรับทางปกครองและใช้มาตรการบังคับทางปกครองของผู้กระทำความผิด&lt;/li&gt;
+&lt;li&gt;การดำเนินการตามประมวลจริยธรรม แนวปฏิบัติทางธุรกิจ หรือมาตรฐานในการรักษา&lt;/li&gt;
+&lt;li&gt;ความมั่นคงปลอดภัยในขณะที่มีการกระทำความผิด&lt;/li&gt;
+&lt;li&gt;การเยียวยาและบรรเทาความเสียหายเมื่อทราบเหตุที่กระทำความผิด&lt;/li&gt;
+&lt;li&gt;การดำเนินการตามประมวลจริยธรรม&lt;/li&gt;
+&lt;li&gt;แนวปฏิบัติทางธุรกิจหรือมาตรฐานในการรักษาความปลอดภัย ของข้อมูลส่วนบุคคลของผู้ควบคุมข้อมูลส่วนบุคคลหรือผู้ประมวลผลข้อมูลส่วนบุคคลขณะที่มีการกระทำความผิด&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;โดยประกาศกำหนดให้คณะกรรมการผู้เชี่ยวชาญพิจารณาออกคำสั่งตามระดับความร้ายแรงของการทำความผิด ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;กรณีไม่ร้ายแรง&lt;/strong&gt; ให้ตักเตือน หรือสั่งให้แก้ไข สั่งห้าม หรือสั่งจำกัดการกระทำ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;กรณีร้ายแรง&lt;/strong&gt; หรือสั่งตักเตือนไม่เป็นผล ให้ลงโทษปรับทางปกครอง&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
+  ดาวน์โหลดประกาศ
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.ratchakitcha.soc.go.th/DATA/PDF/2565/E/140/T_0032.PDF&#34;&gt;ราชกิจจานุเบกษา&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>หลักเกณฑ์การพิจารณาออกคำสั่งลงโทษปรับทางปกครองของคณะกรรมการผู้เชี่ยวชาญ พ.ศ. 2565</title>
       <link>/pages/knowledge/iso/law/personal-data-violation-2565-04/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
@@ -80,6 +284,50 @@
 &lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://www.ratchakitcha.soc.go.th/DATA/PDF/2565/E/140/T_0032.PDF&#34;&gt;ราชกิจจานุเบกษา&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>หลักเกณฑ์และวิธีการในการจัดทำและเก็บรักษาบันทึกรายการของกิจกรรมการประมวลผลข้อมูลส่วนบุคคลสำหรับผู้ประมวลผลข้อมูลส่วนบุคคล พ.ศ. 2565</title>
+      <link>/pages/knowledge/iso/law/pdpa-2565-02/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/knowledge/iso/law/pdpa-2565-02/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ประกาศกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม&lt;/strong&gt; เรื่อง &lt;em&gt;หลักเกณฑ์และวิธีการในการจัดทำและเก็บรักษาบันทึกรายการของกิจกรรมการประมวลผลข้อมูลส่วนบุคคลสำหรับผู้ประมวลผลข้อมูลส่วนบุคคล พ.ศ. 2565&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;เพื่อให้ผู้ประมวลผลข้อมูลส่วนบุคคล มีแนวปฏิบัติที่ชัดเจนในการดำเนินการตาม PDPA โดยมีการให้เวลาผู้ประกอบการ 180 วันในการเตรียมตัว มีรายละเอียดที่สำคัญดังนี้&lt;/p&gt;
+&lt;p&gt;ผู้ประมวลผลข้อมูลส่วนบุคคลตามประกาศฯ ฉบับนี้ ได้แก่ บริษัท ห้างหุ้นส่วนทั้งเป็นนิติบุคคลและไม่เป็นนิติบุคคล และผู้ประกอบธุรกิจฟรีแลนซ์ที่รับจ้างหรือให้บริการประมวลผลข้อมูลให้ผู้ควบคุมข้อมูลส่วนบุคคล&lt;/p&gt;
+&lt;p&gt;โดยประกาศฉบับนี้กำหนดให้ผู้ประกอบการที่เป็นผู้ประมวลผลข้อมูลส่วนบุคคล ต้องจัดทำบันทึกรายการของกิจกรรมการประมวลผลข้อมูลส่วนบุคคล ซึ่งมีรายละเอียดดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ชื่อและข้อมูลเกี่ยวกับผู้ประมวลผลข้อมูลส่วนบุคคล&lt;/li&gt;
+&lt;li&gt;ชื่อและข้อมูลเกี่ยวกับผู้ควบคุมข้อมูลส่วนบุคคลที่ผู้ประมวลผลข้อมูลส่วนบุคคลรับจ้างดำเนินการให้&lt;/li&gt;
+&lt;li&gt;ชื่อและข้อมูลเกี่ยวกับเจ้าหน้าที่คุ้มครองข้อมูลส่วนบุคคล&lt;/li&gt;
+&lt;li&gt;ประเภทหรือลักษณะของกิจกรรมการประมวลผล&lt;/li&gt;
+&lt;li&gt;ประเภทของหน่วยงานที่ได้รับข้อมูล ในกรณีที่มีการส่งหรือโอนข้อมูลส่วนบุคคลไปยังต่างประเทศ&lt;/li&gt;
+&lt;li&gt;คำอธิบายเกี่ยวกับมาตรการรักษาความมั่นคงปลอดภัย&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ประกาศนี้มีผลใช้บังคับ&lt;em&gt;เมื่อพ้นกำหนด 180 วัน&lt;/em&gt;นับแต่วันประกาศในราชกิจจานุเบกษา (&lt;em&gt;มีผลบังคับใช้ 17 ธ.ค. 2565&lt;/em&gt;) ซึ่งจะทำให้ผู้ประกอบการที่เป็นผู้ประมวลผลข้อมูลส่วนบุคคลมีระยะเวลาในการเตรียมความพร้อมขององค์กรในการปฏิบัติตามหน้าที่ที่กฎหมายกำหนด&lt;/p&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:25px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;downloads-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
+  ดาวน์โหลดประกาศ
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.ratchakitcha.soc.go.th/DATA/PDF/2565/E/140/T_0028.PDF&#34;&gt;ราชกิจจานุเบกษา&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -182,33 +430,6 @@
     </item>
     
     <item>
-      <title>ประกาศกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม เรื่อง มาตรฐานการรักษาความมั่นคงปลอดภัยของข้อมูลส่วนบุคคล (ฉบับที่ 2) พ.ศ. 2564</title>
-      <link>/pages/knowledge/iso/law/pdpa/pdpa-2564/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/knowledge/iso/law/pdpa/pdpa-2564/</guid>
-      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div style= &#34;height:25px&#34;&gt;
-
-&lt;/div&gt;
-      
-&lt;div class=&#34;downloads-btn&#34;&gt;
-    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
-  ดาวน์โหลดประกาศ
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.mdes.go.th/law/detail/4730-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%84%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5--%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88-%E0%B9%92--%E0%B8%9E-%E0%B8%A8--%E0%B9%92%E0%B9%95%E0%B9%96%E0%B9%94&#34;&gt;สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
       <title>มาตรฐานการรักษาความมั่นคงปลอดภัยของข้อมูลส่วนบุคคล (ฉบับที่ 2) พ.ศ. 2564</title>
       <link>/pages/knowledge/iso/law/pdpa-2564/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
@@ -240,33 +461,6 @@
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://www.mdes.go.th/law/detail/4730-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%84%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5--%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88-%E0%B9%92--%E0%B8%9E-%E0%B8%A8--%E0%B9%92%E0%B9%95%E0%B9%96%E0%B9%94&#34;&gt;สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ประกาศกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม เรื่อง มาตรฐานการรักษาความมั่นคงปลอดภัยของข้อมูลส่วนบุคคล พ.ศ. 2563</title>
-      <link>/pages/knowledge/iso/law/pdpa/pdpa-2563/</link>
-      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/knowledge/iso/law/pdpa/pdpa-2563/</guid>
-      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div style= &#34;height:25px&#34;&gt;
-
-&lt;/div&gt;
-      
-&lt;div class=&#34;downloads-btn&#34;&gt;
-    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;downloads_files&#34; class=&#34;btn-downloads-dangers &#34;&gt;
-  ดาวน์โหลดประกาศ
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.etda.or.th/getattachment/fa9266c8-e8b8-4201-9180-449be880078f/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%95%E0%B8%A5%E0%B8%82%E0%B8%AA%E0%B8%97%E0%B8%98-(%E0%B8%89%E0%B8%9A%E0%B8%9A%E0%B8%97-5)-%E0%B8%9E-%E0%B8%A8-2565.aspx&#34;&gt;สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

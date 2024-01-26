@@ -1430,6 +1430,18 @@
     <loc>/post/law/customs/2565/2565-150/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/iso-27001/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B8%84%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%84%E0%B8%84%E0%B8%A5/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/knowledge/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/knowledge/iso/law/pdpa-2565-05/</loc>
+    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -1535,22 +1547,25 @@
     <loc>/tags/%E0%B8%9C%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/iso-27001/</loc>
+    <loc>/pages/knowledge/iso/law/pdpa-2565-01/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/knowledge/iso/law/personal-data-violation-2565-01/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/%E0%B8%84%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%9A%E0%B8%84%E0%B8%84%E0%B8%A5/</loc>
-    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/pages/knowledge/</loc>
+    <loc>/pages/knowledge/iso/law/pdpa-2565-03/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/knowledge/iso/law/personal-data-violation-2565-03/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/knowledge/iso/law/pdpa-2565-04/</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/knowledge/iso/law/personal-data-violation-2565-04/</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/knowledge/iso/law/pdpa-2565-02/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/knowledge/iso/law/personal-data-violation-2565-02/</loc>
@@ -2195,9 +2210,6 @@
     <loc>/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pages/knowledge/iso/law/pdpa/pdpa-2564/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/pages/knowledge/iso/law/pdpa-2564/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -2808,9 +2820,6 @@
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/ai/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/pages/knowledge/iso/law/pdpa/pdpa-2563/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/knowledge/iso/law/pdpa-2563/</loc>
