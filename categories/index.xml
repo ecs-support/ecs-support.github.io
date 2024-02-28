@@ -7,10 +7,28 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Laws</title>
+      <link>/categories/laws/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/laws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OGA</title>
+      <link>/categories/oga/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/oga/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ประกาศกรมศุลกากร</title>
@@ -81,24 +99,6 @@
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laws</title>
-      <link>/categories/laws/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/laws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OGA</title>
-      <link>/categories/oga/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/oga/</guid>
       <description></description>
     </item>
     
