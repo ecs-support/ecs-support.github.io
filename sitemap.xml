@@ -5,6 +5,9 @@
     <loc>/pages/clearance/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/01/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/import/postal_guide/</loc>
     <lastmod>2021-08-05T01:00:00+00:00</lastmod>
   </url><url>
@@ -64,6 +67,9 @@
   </url><url>
     <loc>/pages/knowledge/lab/freezone_2022/22_2565/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/02/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/express/</loc>
     <lastmod>2021-08-05T01:00:00+00:00</lastmod>
@@ -137,6 +143,12 @@
     <loc>/pages/knowledge/lab/freezone_2022/189_2564/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/03/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/import/export/</loc>
     <lastmod>2021-08-05T01:00:00+00:00</lastmod>
   </url><url>
@@ -203,6 +215,9 @@
     <loc>/pages/knowledge/lab/freezone_2022/112_2561/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/04/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/knowledge/iso/int_audit/</loc>
     <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -247,6 +262,9 @@
   </url><url>
     <loc>/pages/knowledge/lab/freezone_2022/110_2561/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/05/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/clearance/catergory-05/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
@@ -299,6 +317,9 @@
     <loc>/pages/export/e-export/5.tax-incentives/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/06/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/tariff/hs_2022/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -338,6 +359,9 @@
     <loc>/pages/fta/aanzfta/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/07/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/clearance/catergory-07/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -359,6 +383,9 @@
     <loc>/pages/export/e-export/7.contact-registration/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/08/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/clearance/catergory-08/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -374,6 +401,9 @@
     <loc>/pages/export/e-export/8.declaration-no/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/09/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/clearance/catergory-09/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -386,6 +416,9 @@
     <loc>/pages/export/e-export/9.duty-payment/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/10/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/clearance/catergory-10/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -397,6 +430,9 @@
   </url><url>
     <loc>/pages/export/e-export/10.counter-service/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/11/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/clearance/catergory-11/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
@@ -413,6 +449,9 @@
     <loc>/pages/export/e-export/11.submission-in-document-format/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/12/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/clearance/catergory-12/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -424,6 +463,9 @@
   </url><url>
     <loc>/pages/export/e-export/12.product-packaging/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/13/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/tariff/part-4/13-4/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
@@ -437,6 +479,9 @@
     <loc>/pages/export/e-export/13.goods-control-list-structure/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/14/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/tariff/part-4/14-4/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -449,6 +494,9 @@
     <loc>/pages/export/e-export/14.prepare-goods-control-list/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/15/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/tariff/part-4/15-4/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -457,6 +505,9 @@
   </url><url>
     <loc>/pages/export/e-export/15.transfer-of-goods-to-load-port/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/16/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/export/e-export/16.goods-load/</loc>
     <lastmod>2021-05-09T00:00:00+00:00</lastmod>
@@ -470,6 +521,9 @@
     <loc>/pages/import/guide/incoterms/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/17/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/export/e-export/17.short-packing/</loc>
     <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -478,6 +532,9 @@
   </url><url>
     <loc>/pages/tariff/part-4/17-4/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/18/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/export/e-export/18.reference-file/</loc>
     <lastmod>2021-05-09T00:00:00+00:00</lastmod>
@@ -491,6 +548,9 @@
     <loc>/pages/import/guide/tax-incentives/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/19/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/export/e-export/19.emergency/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -502,6 +562,9 @@
   </url><url>
     <loc>/pages/export/e-export/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/20/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/knowledge/iso/law/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
@@ -518,17 +581,26 @@
     <loc>/pages/tax-inc/tax-guide/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/21/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/fta/jtepa/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/guide/gurantee-anti-dumping/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/22/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/fta/tnz/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/guide/input-duty/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/23/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/fta/tafta/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
@@ -539,8 +611,14 @@
     <loc>/pages/fta/tpe/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/24/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/import/guide/argumentative-reason-code/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/28/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/guide/type-duty/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
@@ -548,8 +626,14 @@
     <loc>/pages/export/re-export/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/29/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/import/guide/permit-issue-authority/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/30/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/guide/checking-mainfest/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
@@ -557,14 +641,23 @@
     <loc>/pages/import/guide/cal_principle/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/31/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/import/guide/privilege/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/guide/decimal-rounding-principle/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/32/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/import/guide/cancel_decl/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/33/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/fta/rcep/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
@@ -575,8 +668,23 @@
     <loc>/pages/tax-inc/tranfer/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/34/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/import/excise/search_by_product/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/35/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/36/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/37/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/38/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/excise/government-funded/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
@@ -584,14 +692,197 @@
     <loc>/pages/import/trade-protect/</loc>
     <lastmod>2020-05-09T01:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/39/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/40/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/41/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/42/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/43/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/import/excise/excise_announcement_product_list/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/44/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/import/excise/excise_announcement_list/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/tariff/ts_2022/45/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/46/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/47/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/48/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/49/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/50/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/51/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/52/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/53/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/54/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/55/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/56/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/57/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/58/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/59/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/60/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/61/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/62/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/63/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/64/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/65/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/66/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/67/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/68/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/69/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/70/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/71/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/72/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/73/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/74/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/75/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/76/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/78/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/79/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/80/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/81/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/82/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/83/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/84/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/85/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/86/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/87/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/88/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/89/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/90/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/91/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/92/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/93/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/94/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/95/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/96/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/97/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/aa/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/ab/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/export/e-export/100.backup/</loc>
     <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/tariff/ts_2022/back/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/tariff/part-4/back/</loc>
     <lastmod>2021-05-09T00:00:00+00:00</lastmod>
@@ -606,24 +897,39 @@
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/news/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/news/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A2%E0%B8%99/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/news/repeat/exchange_rate/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/aanzfta/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/pages/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/</loc>
@@ -631,9 +937,6 @@
   </url><url>
     <loc>/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%AD%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%A2-%E0%B8%99%E0%B8%A7%E0%B8%8B%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/law/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
@@ -686,22 +989,10 @@
     <loc>/categories/knowledge/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/news/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/knowledge/2024/02-23/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/news/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/knowledge/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A2%E0%B8%99/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/news/repeat/exchange_rate/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/law/customs/2567/2567-20/</loc>
@@ -1469,6 +1760,9 @@
     <loc>/post/series/hs_2022/news/</loc>
     <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/%E0%B8%9E%E0%B8%81%E0%B8%94%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/series/hs_2022/text_of_ahtn/</loc>
     <lastmod>2021-12-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -2134,9 +2428,6 @@
   </url><url>
     <loc>/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5/</loc>
     <lastmod>2021-03-02T08:10:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/%E0%B8%9E%E0%B8%81%E0%B8%94%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
-    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97-3-%E0%B8%A0%E0%B8%B2%E0%B8%84-4/</loc>
     <lastmod>2021-02-24T05:10:00+00:00</lastmod>
