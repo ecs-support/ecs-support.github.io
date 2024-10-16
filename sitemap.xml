@@ -897,22 +897,34 @@
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/e-payment/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/knowledge/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/knowledge/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/knowledge/2024/10-16/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
@@ -959,16 +971,10 @@
     <loc>/tags/%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/knowledge/</loc>
-    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B8%97%E0%B8%98/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/knowledge/2024/09-13/</loc>
-    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/knowledge/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%AA%E0%B8%AD/</loc>
