@@ -18,7 +18,45 @@
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>/pages/knowledge/iso/law/cloud-2567/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;Cloud-cyber-security-standards-2024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;ร่างมาตรฐานความปลอดภัยไซเบอร์ระบบคลาวด์ (Cloud Security) ได้ผ่านการพิจารณาโดยคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ (กมช.) เมื่อวันที่ 31 กรกฎาคม 2567 ล่าสุดได้มีการประกาศในราชกิจจานุเบกษา เมื่อ&lt;em&gt;วันที่ 10 กันยายน 2567&lt;/em&gt; ที่ผ่านมา มีผลบังคับใช้เมื่อพ้นกำหนดสองปี นับตั้งแต่วันที่ประกาศในราชกิจจานุเบกษา
+สรุปข้อกำหนด ประกาศ : มาตรฐานความปลอดภัยไซเบอร์ระบบคลาวด์ ได้ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ประกาศดังกล่าวบังคับใช้กับหน่วยงาน GOV, REG, CII (GOV ย่อมาจาก Government, REG ย่อมาจาก Regulator, CII ย่อมาจาก Critical Information Infrastructure) ตาม พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562 รวมถึงผู้ให้บริการคลาวด์ กับหน่วยงานดังกล่าวด้วย&lt;/li&gt;
+&lt;li&gt;กำหนดมาตรฐานสำหรับผู้ใช้บริการคลาวด์ ร่วมกับผู้ให้บริการคลาวด์สาธารณะ (Public Cloud Service Provider) เฉพาะที่ต้องได้รับการรับรองให้เป็นผู้ให้บริการคลาวด์ที่ผ่านเกณฑ์ของ GOV, REG, CII ตาม พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562 โดยใช้มาตรฐานการรับรองผู้ใช้บริการคลาวด์ที่ผ่านการรับรองแล้ว&lt;/li&gt;
+&lt;li&gt;ผู้ให้บริการคลาวด์และหน่วยงานที่ประกอบด้วยหน่วยงาน GOV, REG, CII จะต้องปฏิบัติตาม พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562 รวมถึงผู้ตรวจสอบภายนอกด้านความมั่นคงปลอดภัยไซเบอร์และหน่วยงานให้บริการตรวจรับรอง (Certify Body)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;โครงสร้างมาตรฐาน&lt;/strong&gt; กำหนดไว้ 2 ส่วนหลัก คือ&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;การกำกับดูแลด้านความมั่นคงปลอดภัยระบบคลาวด์ (Cloud Security Governance) นโยบายด้านความมั่นคงปลอดภัยสารสนเทศ (Information Security Policies)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;โครงสร้างองค์กรด้านความมั่นคงปลอดภัยสารสนเทศ (Organization of Information Security)&lt;/li&gt;
+&lt;li&gt;การปฏิบัติตามกฎ ระเบียบ ข้อบังคับ (Compliance)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;การปฏิบัติและการรักษาความมั่นคงปลอดภัยโครงสร้างพื้นฐานระบบคลาวด์ (Cloud Infrastructure Security and Operation)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;การบริหารทรัพยากรมนุษย์ (Human Resource Security)&lt;/li&gt;
+&lt;li&gt;การจัดการทรัพย์สิน (Asset Management)&lt;/li&gt;
+&lt;li&gt;การควบคุมการเข้าถึง (Access Control)&lt;/li&gt;
+&lt;li&gt;การเข้ารหัส (Cryptography)&lt;/li&gt;
+&lt;li&gt;การรักษาความปลอดภัยทางกายภาพและสภาพแวดล้อม (Physical and Environment Security)&lt;/li&gt;
+&lt;li&gt;การรักษาความมั่นคงปลอดภัยการปฏิบัติการ (Operations Security)&lt;/li&gt;
+&lt;li&gt;การรักษาความมั่นคงปลอดภัยเครือข่าย (Communication Security)&lt;/li&gt;
+&lt;li&gt;การจัดหา การพัฒนา และการบำรุงรักษา (System Acquisition, Development, and Maintenance)&lt;/li&gt;
+&lt;li&gt;การจัดการผู้ให้บริการภายนอก (Supplier Relationships)&lt;/li&gt;
+&lt;li&gt;การจัดการเหตุคุกคามทางสารสนเทศ (Information Security Incident Management)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;อ่านรายละเอียดเพิ่มเติมได้ที่ : &lt;a href=&#34;https://drive.ncsa.or.th/s/rZisADdG8rqjxCJ&#34;&gt;มาตรฐานด้านความมั่นคงปลอดภัยไซเบอร์ระบบคลาวด์&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;นโยบายคลาวดในตางประเทศ&#34;&gt;นโยบายคลาวด์ในต่างประเทศ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;สหรัฐฯ มี Federal Cloud Computing Strategy (Cloud Smart) เป็นการปรับปรุงจาก Cloud First Policy ของปี 2010 ประกาศใช้ในปี 2011 พัฒนาขึ้นเพื่อเพิ่มประสิทธิภาพการทำงานของ ระบบไอทีภาครัฐ โดยเน้นไปที่การเพิ่มความปลอดภัย (Security), ประสิทธิภาพ (Efficiency), และการดูแลข้อมูล (Data Management) ของระบบคลาวด์&lt;/li&gt;
+&lt;li&gt;สหภาพยุโรปมีนโยบาย Cloud First เช่นกัน แต่สิ่งที่เพิ่มมา คือ มีการผลักดันโครงการคลาวด์ภายใต้กรอบงาน European Open Science Cloud (EOSC) เพื่อสนับสนุนการวิจัยและนวัตกรรม โดยให้ความสำคัญกับการแลกเปลี่ยนข้อมูลวิทยาศาสตร์ และการร่วมมือระหว่างประเทศสมาชิก&lt;/li&gt;
+&lt;li&gt;อังกฤษ มี Government Cloud Strategy (G-Cloud) มุ่งเน้นการใช้บริการคลาวด์เพื่อประหยัดงบประมาณ และเพิ่มประสิทธิภาพการทำงานของภาครัฐ โดยสร้าง Digital Marketplace ให้กับภาครัฐในการเลือกใช้บริการจากผู้ให้บริการคลาวด์ที่ผ่านการรับรอง&lt;/li&gt;
+&lt;li&gt;สิงคโปร์ มี Government Commercial Cloud (GCC) หรือ แผนกลยุทธ์คลาวด์ เพื่อให้หน่วยงานรัฐสามารถใช้ประโยชน์จากโซลูชันคลาวด์สาธารณะที่มีคุณภาพ โดยส่งเสริมความยืดหยุ่น ให้เกิดการปฏิบัติที่รวดเร็ว และลดต้นทุนในการบริหารจัดการไอที&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;Cloud-cyber-security-standards-2024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div style= &#34;height:25px&#34;&gt;
 
 &lt;/div&gt;
@@ -40,7 +78,10 @@
 &lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://drive.ncsa.or.th/s/rPWACibPZKsRocm?&#34;&gt;สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มาบทความ : &lt;a href=&#34;https://www.onefence.co/cloud-security-policy-thai-out-now/&#34;&gt;OneFence&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มาประกาศ : &lt;a href=&#34;https://drive.ncsa.or.th/s/rPWACibPZKsRocm?&#34;&gt;คณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
