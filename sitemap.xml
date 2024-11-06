@@ -137,9 +137,6 @@
     <loc>/pages/export/e-export/2.principles-for-recording/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pages/company/register_expire/</loc>
-    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/pages/knowledge/lab/freezone_2022/189_2564/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -897,24 +894,39 @@
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/news/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/news/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/news/2024/11-06/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B8%95%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/iso-27001/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/knowledge/</loc>
@@ -938,17 +950,8 @@
     <loc>/categories/knowledge/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/knowledge/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/news/</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/news/</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A2%E0%B8%99/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
