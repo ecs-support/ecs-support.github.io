@@ -137,6 +137,9 @@
     <loc>/pages/export/e-export/2.principles-for-recording/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/pages/company/register_expire/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/pages/knowledge/lab/freezone_2022/189_2564/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -923,10 +926,13 @@
     <loc>/tags/%E0%B8%95%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/iso-27001/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/pages/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E0%B8%95%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/iso-27001/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/pages/knowledge/</loc>
@@ -1407,9 +1413,6 @@
     <lastmod>2023-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/law/customs/other/2566/07-24/</loc>
-    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/%E0%B8%95%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87/</loc>
     <lastmod>2023-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
